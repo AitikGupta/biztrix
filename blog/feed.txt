@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fusion BPO Services Blog</title>
+	<atom:link href="https://www.fusionbposervices.com/blog/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.fusionbposervices.com/blog</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Jun 2019 17:02:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>How Reducing Employee Effort Can Lead To A Better Customer Service</title>
+		<link>https://www.fusionbposervices.com/blog/how-reducing-employee-effort-can-lead-to-a-better-customer-service.html</link>
+				<comments>https://www.fusionbposervices.com/blog/how-reducing-employee-effort-can-lead-to-a-better-customer-service.html#respond</comments>
+				<pubDate>Tue, 11 Jun 2019 17:02:53 +0000</pubDate>
+		<dc:creator><![CDATA[Bidisha Gupta]]></dc:creator>
+				<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Employee]]></category>
+
+		<guid isPermaLink="false">https://www.fusionbposervices.com/blog/?p=6635</guid>
+				<description><![CDATA[Great customer service is the need of the hour. If as an organization you cannot provide good customer service you are sure to lose their loyalty at some point in time. Therefore, you need to provide the best possible service to your customer. While every business today tries to provide excellent customer service and reduce [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Great customer service is the need of the hour. If as an
+organization you cannot provide good customer service you are sure to lose
+their loyalty at some point in time. Therefore, you need to provide the best
+possible service to your customer.</p>
+
+
+
+<p>While every business today tries to <a href="https://www.fusionbposervices.com/customer-service.html">provide excellent customer service</a> and reduce the customer effort with timely and effective support to improve their experience, it fails to recognize the most important aspect of delivering a customer experience – their employees who serve in a customer facing role. </p>
+
+
+
+<p>If you make it difficult or the employees to do their job,
+it will translate to the experience they deliver to your customers.&nbsp; Even if the difficult task is not directly
+related to the customer, the frustration of doing that task somehow impacts the
+employee-customer interaction. Also, it gradually makes your employees <a href="https://www.fusionbposervices.com/blog/reasons-and-remedies-of-employee-disengagement.html">disengaged</a>
+resulting in an even poorer customer experience. Yet according to a CCW 2019 <a href="https://www.customercontactweekdigital.com/content-auto-download/5be9b822d1d92e406f3b64d1">study</a>,
+most companies do not pay as much attention to reducing employee effort as they
+do to personalization. </p>
+
+
+
+<p>At Fusion, we give our employees utmost importance and
+recognize their unique position in delivering a good customer experience. Therefore,
+we always ask ourselves the following questions:</p>
+
+
+
+<ul><li>What&#8217;s keeping employees from delivering the
+great experience that your customers deserve?</li><li>Is there a way to simplify workflows and
+processes?</li><li>How can we make it easier for employees to do their
+job?</li><li>How do we make it easier for agents to deliver a
+great customer experience by removing complexities, complications, and
+bureaucracy?</li><li>Are there ways to reduce effort for employees
+and ultimately, for customers?</li></ul>
+
+
+
+<p>With our vast experience in the customer service industry,
+we have found that making necessary changes to reduce the efforts of your employees
+leads to improved customer experience. Here are a few suggestions on how to
+turn things around for our employees, and eventually, for the customer.</p>
+
+
+
+<h3>1. Walk In Your Employees&#8217; Shoes</h3>
+
+
+
+<p>Walking in your employees’ shoes in the best way to
+understand the effort they put every day. To do this, you can create any of the
+two following things: </p>
+
+
+
+<ol><li>Employee journey maps</li><li>Your own undercover executive program, in which executives take on the role of the employee. </li></ol>
+
+
+
+<p>Once you understand the effort, you&#8217;ll be able to unearth
+the inefficiencies and ready to improve the process. At Fusion, we have used
+undercover executive program to see whether the employees are finding it easy
+to do their job.</p>
+
+
+
+<h3>2. Pay Attention To What Your Employees Are Saying</h3>
+
+
+
+<p>Listen to what your employees are telling you. Watch them
+work. If they say a process is difficult or pointless, you need to look into it
+and fix it the best way you can. Ignoring it is not a wise decision.</p>
+
+
+
+<h3>3. Ensure Employees Have The Right Tools</h3>
+
+
+
+<p>When you define employee roles and expectations, make sure
+that your employees have the knowledge, skills, training, and resources
+required to do the job. &nbsp;Without the
+right tool, training and knowledge they will not be able to provide prompt and
+to-the-point solution to your customers, resulting in a poor customer
+experience. </p>
+
+
+
+<h3>4. Reduce Their Effort With Modern Technology </h3>
+
+
+
+<p>At Fusion, we believe in providing our employees with the
+most modern tools that make their jobs easier and less time consuming. For
+example – if customer service agents get <a href="https://www.fusionbposervices.com/automation-solutions.html">AI
+assistance</a> that brings all the data related to a customer on a single
+dashboard, it helps them serve the customer better. Having an <a href="https://www.fusionbposervices.com/blog/benefits-of-adopting-omnichannel-customer-support.html">omnichannel</a>
+environment makes it easier for the agents to ask suggestions of other agents
+without putting the customer on hold and thus it reduces the agent effort and
+ultimately the customer effort as well.</p>
+
+
+
+<h3>5. Define The Idea Of A Great Customer Experience </h3>
+
+
+
+<p>Giving your employees a clear idea about your customers will
+help them understand what needs to be done. Defining the idea of a great
+customer experience to them will give them a clear target and help them
+understand how to get there. </p>
+
+
+
+<h3>6. Provide Ongoing Feedback</h3>
+
+
+
+<p>Giving your employees regular feedback and ongoing coaching provides
+them with the guidance they need to follow the right path, to do things in a
+better manner and to do it right every single time. Just like employee feedback
+helps create a better process, giving regular feedback and training to the
+employees help them deliver a better customer experience. According to <a href="https://blog.hubspot.com/marketing/11-employee-feedback-statistics">Hubspot</a>,
+regular employee feedback can greatly impact employee engagement.</p>
+
+
+
+<p>These are some useful tips that can help you reduce agent effort, root out the inefficiencies, and create a streamlined and simpler work process that makes the job easier for the employees. A simpler work process with the right tools and technology result in a better customer service while regular feedback and timely training boosts employee engagement. As a result, your employees are happy and your customers are happier.</p>
+
+
+
+<p>Fusion has always been an advocate of reducing employee efforts and engaging them with timely feedback and training. We feel that when our agents are engaged, they provide a far more efficient customer support that boosts customer satisfaction. </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/how-reducing-employee-effort-can-lead-to-a-better-customer-service.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>6 Key Things That Make A Gamification Program Successful In A Collection Call Center</title>
+		<link>https://www.fusionbposervices.com/blog/6-key-things-make-gamification-successful-in-collection-call-center.html</link>
+				<comments>https://www.fusionbposervices.com/blog/6-key-things-make-gamification-successful-in-collection-call-center.html#respond</comments>
+				<pubDate>Fri, 31 May 2019 15:37:11 +0000</pubDate>
+		<dc:creator><![CDATA[Esther Marek]]></dc:creator>
+				<category><![CDATA[Collection Services]]></category>
+		<category><![CDATA[Employee Engagement]]></category>
+		<category><![CDATA[Gamification]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6620</guid>
+				<description><![CDATA[Gamification is a fun and growing way that can improve collection call center performance and agent engagement. Gamification has been very effective in improving employee performance and business results at collections-focused contact centers. Benefits of gamification programs include increased revenues from higher recovery rates, improved compliance, making training more fun and effective, and improved employee [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Gamification is a fun and growing way that can improve collection call center performance and agent engagement. <a href="https://en.wikipedia.org/wiki/Gamification">Gamification</a> has been very effective in improving employee performance and business results at collections-focused contact centers. Benefits of gamification programs include increased revenues from higher recovery rates, improved compliance, making training more fun and effective, and improved employee retention.</p>
+
+
+
+<p>Employee engagement is a persistent problem of
+collection-based call centers. Due to unengaged employees, collection call
+centers often face an issue like: </p>
+
+
+
+<ul><li>Flat or declining recovery rates</li><li>High abandon rates</li><li>Increased customer service complaints</li><li>Increased compliance violations</li><li>High employee attrition rates</li></ul>
+
+
+
+<p>However, by adding gamification to the mix, <a href="http://www.fusionbposervices.com/collection-services.html">collection call centers</a> can improve script adherence, raising recovery rates, improving compliance with disclosure requirements, and reducing the onboard time for new agents by making training more effective. This change in agent behavior also helps collection centers to improve customer satisfaction ratings.</p>
+
+
+
+<p>Having a long experience in the collection industry, Fusion
+has a step-by-step approach in designing a gamification strategy to engage its
+collection agents.&nbsp; </p>
+
+
+
+<ol><li>Define goals</li><li>Apply interaction analytics to identify baseline
+performance and improvement opportunities</li><li>Define key performance indicators (KPIs) for the
+program</li><li>Identify the appropriate motivators for agents</li></ol>
+
+
+
+<p>With our experience in this field, we understand that
+successful gamification is not game oriented but goal oriented. Rooted in clear
+business goals quantifiable by appropriate metrics, successful gamification
+needs to have the right motivators so that agents can easily get hooked. Some
+important things to remember while designing a gamification program:</p>
+
+
+
+<h3>1. Define Goals</h3>
+
+
+
+<p>A gamification program without a defined business goal is
+doomed to fail from the beginning. If you don’t know what you want to achieve
+through the program, running the program has no point at all. Whether you want
+to improve customer satisfaction by 5%, reduce 10% employee attrition, or
+improve your recovery rates, you need to be clear about that even before
+designing a gamification program.</p>
+
+
+
+<h3>2. Define KPI</h3>
+
+
+
+<p>Having the right metrics is the key. You cannot judge
+customer satisfaction by looking at script adherence rate. To make a
+gamification program successful, you need appropriate metrics that help you
+measure your success in terms of your business goals. You can use analytics to
+keep a track of how things are going and whether there is any scope for
+improvement.</p>
+
+
+
+<h3>3. Choose Motivators</h3>
+
+
+
+<p>Choosing motivators can be a difficult task as not everyone
+is motivated by the same thing. While baby boomers get motivated to earn points
+and rewards, millennials get motivated by public recognition. Therefore, it can
+be easily said that there is no one size fits all reward.&nbsp; While money can be a powerful reward, it is
+not the only effective incentive. Incentives like paid time off, meals,
+merchandise, company gear, recognition on the company’s social media page are a
+few other incentives that work well.</p>
+
+
+
+<h3>4. Set Time Limits</h3>
+
+
+
+<p>A contest that goes on indefinitely will lose its effectiveness. Setting a certain start and end time helps businesses raise participation and effort while the contest is in effect. If a long-term program is needed to meet the business goal (<em>for example improving a 5 percent improvement in customer satisfaction ratings every year</em>), consider conducting a series of consecutive contests rather than one long one. </p>
+
+
+
+<p>It is important to recognize the end of the program where
+top performers will be recognized and participants will be updated about the result
+and how the program helped meeting the business goal. You can also conclude the
+program with a small party to get the feedback that can help you make future
+engagements more effective. </p>
+
+
+
+<h3>5. Inspire Continued Involvement</h3>
+
+
+
+<p>Contests should have the mechanisms to motivate participants
+to stay involved, even after meeting the performance required or when they have
+almost zero chance of winning. You can encourage agents to continue working
+towards goals as groups. That way, they will be able to achieve more than they
+can achieve individually.&nbsp; </p>
+
+
+
+<p>Fusion has seen that providing rewards for meeting
+performance thresholds is a great way to promote continued involvement and keep
+participants motivated. Reward thresholds can also be used in combination with
+more competitive contests to get more effective results.</p>
+
+
+
+<h3>6. Communicate</h3>
+
+
+
+<p>To maximize the effectiveness of a gamification program you need consistent communication before, during, and after the contest. This will help organizations maximize agent participation in a program, improve buy-in by helping agents understand why a certain goal or metric is vital, explain rules clearly so that there is no confusion or hard feelings about unclear rules, and make motivation more effective by bringing good performers into the limelight. Fusion has always found communication to be the key to successful gamification programs in a collection call center. </p>
+
+
+
+<p>These are some of the ways a collection call center can improve its employee engagement and customer experience through the call center. The key is to find a defined goal, time limit, performance indicators, and the right motivator, and measuring it all through application analytics. If you rightly engage your employees through gamification, your employees will be inspired to perform at optimum level even after the program ended, resulting in better customer experience as well. </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/6-key-things-make-gamification-successful-in-collection-call-center.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>4 Realities Compelling Businesses To Rethink Their Customer Service Models</title>
+		<link>https://www.fusionbposervices.com/blog/4-realities-compelling-businesses-to-rethink-their-customer-service-models.html</link>
+				<comments>https://www.fusionbposervices.com/blog/4-realities-compelling-businesses-to-rethink-their-customer-service-models.html#respond</comments>
+				<pubDate>Wed, 29 May 2019 17:20:41 +0000</pubDate>
+		<dc:creator><![CDATA[Alicia Johnson]]></dc:creator>
+				<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[5G]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6616</guid>
+				<description><![CDATA[Customer service has gone through a sea of changes in the recent past. So far, the changes have helped businesses improve the quality of customer service and deliver state-of-the-art customer experience. So, what made businesses think that a change in their customer service model is necessary? Here are four realities that compelled businesses to rethink: [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Customer service has gone through a sea of changes in the
+recent past. So far, the changes have helped businesses improve the quality of
+customer service and deliver state-of-the-art customer experience.</p>
+
+
+
+<p>So, what made businesses think that a change in their
+customer service model is necessary? Here are four realities that compelled
+businesses to rethink:</p>
+
+
+
+<h3>1. Smartphones In Every Pocket </h3>
+
+
+
+<p>Nowadays one can find heavily featured smartphones being used in different parts of the world. Pew Research <a href="https://www.pcworld.com/article/2999631/phones/pew-survey-shows-68-percent-of-americans-now-own-a-smartphone.html">reports</a> that in 2015 68% of American adults owned smartphones, almost double the 35% penetration in 2011. That means nearly every American has a supercomputer in his or her pocket.</p>
+
+
+
+<p>The smartphone and the tablet are all-purpose devices that let us interact in a variety of modes &#8211; phone, email, text, web chat, video chat, social media, online forums and much more. As a result, people do not want to stick with just one mode of communication at a time: they switch modes as they please, and expect companies to keep up so that they don&#8217;t have to repeat their back-story to different personnel along the way. </p>
+
+
+
+<p><strong>Changes in customer service model to cope with this reality: </strong></p>
+
+
+
+<p>With a smartphone in every pocket, companies can no longer stick to just one or two customer interaction channels. They should be present in a variety of channels so that a customer can reach them easily via the channel of his/her choice. When it comes to customer service, omnichannel is the way to go. </p>
+
+
+
+<p>With <a href="http://www.fusionbposervices.com/blog/benefits-of-adopting-omnichannel-customer-support.html">omnichannel customer service</a>, a customer receives a seamless experience across all channels. Now, that is a customer service model that never goes out of style.</p>
+
+
+
+<h3>2. 5G </h3>
+
+
+
+<p>Over the next two years, the transition from 4G to 5G will make the public wireless network experience a huge 300 times faster. With <a href="https://www.techradar.com/news/what-is-5g-everything-you-need-to-know">5G</a>, we will see devoted slices of spectrum, ready for tuning and optimization for specific applications and devices. The blend of these two phenomena, when met with <a href="https://www.linkedin.com/pulse/how-internet-things-affect-customer-service-near-future-saraogi/">IoT</a>/M2M devices, will facilitate secure real-time data transfer. That means no delay. </p>
+
+
+
+<p><strong>Changes in customer service model to cope with this reality: </strong></p>
+
+
+
+<p>In the age of 5G the faster a company can put data into action, the more value it can deliver. This is only possible when you put AI into the mix. When your customer service agents get <a href="http://www.fusionbposervices.com/automation-solutions.html">real-time assistance from AI</a>, it will be possible for them to assist your customers right away.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5G.jpg" alt="5G" class="wp-image-6617" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5G.jpg 650w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5G-300x168.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></figure></div>
+
+
+
+<p>Here’s an example – if you get a call from your customer that his/her car broke down in the middle of the road, your customer service agent can take help of AI to resolve the issue quickly. AI can quickly show the agent the actual location of your customer, the location of the nearest tow truck and the time it will take the tow truck to arrive. It can also notify the tow truck, show the agent the location of the nearest clinic in case the customer needs medical assistance, saving your agent the time to manually look for the information and make the necessary calls. As a result, you can provide your customer with real-time assistance.</p>
+
+
+
+<h3>3. Getting Smart </h3>
+
+
+
+<p>Smart watches, smart cars, smart TVs, and other smart
+devices continue to have a mammoth impact on consumer-oriented experiences.
+Companies are building customer experiences around smart connected devices and
+reshaping customer expectations in the process. The effect in the B2B segment
+will be just as remarkable and will go beyond the automatic or single-tap
+wireless updating of software features and bug fixes. </p>
+
+
+
+<p><strong>Changes in customer service model to cope with this reality: </strong></p>
+
+
+
+<p>For most people, the best customer experience would be one that provides problem resolution without them having to know about it. Otherwise, one where the device notifies customer service based on a data trigger, empowering the user to help solve the issue on his terms.</p>
+
+
+
+<p>As we shoot up the connectivity, contact center agents and technicians will increasingly interact not only with people but also with a wide range of devices, requiring these experts to hone their skills to handle different questions and complex situations.</p>
+
+
+
+<h3>4. Big Data Getting Bigger</h3>
+
+
+
+<p>Considering the ABI Research <a href="http://www.computerweekly.com/news/2240227341/IoT-enabled-devices-to-cross-40-billion-by-2020">report</a>
+that IoT/M2M will reach 40 billion in 2020, it is safe to say that connected
+devices will soon outnumber people 5:1 or more. And they will generate a lot of
+data.&nbsp; To deliver excellent customer
+service businesses has to process this data to put the right information into
+the right Changes in customer service model to cope with this reality: </p>
+
+
+
+<p><strong>Changes in customer service model to cope with this reality: </strong></p>
+
+
+
+<p>At present customer service agents get access to just the performance information and customer data available in the CRM. That is a small slice of data that is often segmented. To use big data to its full potential, businesses have to analyze all data points and spread it across an organization along with other data. AI, data science, and machine learning can help you with that. </p>
+
+
+
+<p>These advanced technologies will help you process big data faster, analyze the data to get better understanding of your customers and their expectations and using the same for future customer interactions. They will help agents get the full picture and deliver faster resolution, create more upsell/cross-sell opportunities, and ultimately deliver a superior customer experience.</p>
+
+
+
+<p>Smartphones, 5G, devices, and <a href="https://www.linkedin.com/pulse/wearable-technology-change-face-customer-service-kishore-saraogi/">wearables</a>, as well as big data, will continue to bring positive changes in customer service. Is your customer service ready to deliver new customer experience? </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/4-realities-compelling-businesses-to-rethink-their-customer-service-models.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Fusion BRIDGE 2019 : First Of Its Kind</title>
+		<link>https://www.fusionbposervices.com/blog/fusion-bridge-2019.html</link>
+				<comments>https://www.fusionbposervices.com/blog/fusion-bridge-2019.html#respond</comments>
+				<pubDate>Thu, 23 May 2019 16:22:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ana Maria T. Pugoy]]></dc:creator>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[Summit]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6602</guid>
+				<description><![CDATA[BRIDGE &#8211; Building Ripples In a Diversified Global Environment.&#160;&#160; On 11th of May 2019 history was made in Fusion BPO Cebu.  It was the very first time that all leaders from Subject Matter Experts to Team Leads to Account Managers and Supervisors, Department Heads, together with Fusion Philippines&#8217; Country Head, Mr. Nagarajan &#8220;Raj&#8221; Anandaraman, gathered together in one [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<h3>BRIDGE &#8211; Building Ripples In a Diversified Global Environment.&nbsp;&nbsp;</h3>
+
+
+
+<p>On 11th of May 2019 history was made in Fusion BPO Cebu.  It was the very first time that all leaders from Subject Matter Experts to Team Leads to Account Managers and Supervisors, Department Heads, together with Fusion Philippines&#8217; Country Head, Mr. Nagarajan &#8220;<em>Raj</em>&#8221; Anandaraman, gathered together in one forum, through a Leadership Summit called <strong>Fusion BRIDGE</strong>. </p>
+
+
+
+<p>The theme was all about Innovation and everyone did not disappoint.&nbsp; &nbsp;It was well represented by 75 stakeholders from every Account in Fusion BPO Cebu and all Department Heads.</p>
+
+
+
+<p>The Program kicked off with an energetic Welcome Address from Raj who opened the ceremony with an in-depth discussion about innovation in the contact center industry.&nbsp; It was then followed by our&nbsp;Head of Operations, Barbara Atillo-Alovera&#8217;s cascade on What&#8217;s Next for the Organization, 2018 Site-Wide Highlights, and the 3-Year Roadmap for Fusion Cebu.&nbsp;</p>
+
+
+
+<p>The next phase of the summit covered all the 2018 Achievements, 2019&nbsp;Year-round plans and the What&#8217;s-In-It-For-Me (WIIFM) discussion&nbsp;from IT, HR, Corporate Training, Operations, Workforce, Quality, and Facilities/Infrastructure c/o each Department Head &#8211; Darwin Aloot, Ana Maria Pugoy, Ana Aviso, Barbara Atillo-Alovera, Mark Ferdinand Soller, Lyn Ybanez, and Michael Teves.</p>
+
+
+
+<ul class="wp-block-gallery aligncenter columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/1.jpg"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/1.jpg" alt="" data-id="6606" data-link="http://www.fusionbposervices.com/blog/?attachment_id=6606" class="wp-image-6606" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/1.jpg 600w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/2.jpg"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/2.jpg" alt="" data-id="6607" data-link="http://www.fusionbposervices.com/blog/?attachment_id=6607" class="wp-image-6607" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/2.jpg 600w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/3.jpg"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/3.jpg" alt="" data-id="6608" data-link="http://www.fusionbposervices.com/blog/?attachment_id=6608" class="wp-image-6608" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/3.jpg 600w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/3-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/4.jpg"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/4.jpg" alt="" data-id="6609" data-link="http://www.fusionbposervices.com/blog/?attachment_id=6609" class="wp-image-6609" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/4.jpg 600w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/4-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5.jpg"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5.jpg" alt="" data-id="6610" data-link="http://www.fusionbposervices.com/blog/?attachment_id=6610" class="wp-image-6610" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5.jpg 600w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/5-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure></li></ul>
+
+
+
+<p>The most exciting, inspirational, and educational part of the day-long activity was the Executive Fireside Chat, which was graced by our very own Co-Founder / Chief Operations Officer, Sir Kishore Saraogi, and Sir Raj who not only shared their success stories, but also showed their fun side by giving life to some of the personal questions in lieu with Work-Life-Balance.</p>
+
+
+
+<p>There was never a dull moment during the second half of the Program as all participants came ready with their root causes,&nbsp;creative ideas, suggestions, solutions,&nbsp;and recommendations.&nbsp; They brainstormed in three (3) competitive groups, during the Break-out sessions, to help address 3 pain points in lieu with&nbsp;the following categories:</p>
+
+
+
+<h4>&nbsp;1.&nbsp;&nbsp;People</h4>
+
+
+
+<ul><li>Retention</li><li>Engagement</li><li>Sourcing</li></ul>
+
+
+
+<h4>2.&nbsp; Processes &amp; Procedures</h4>
+
+
+
+<ul><li>Communication Channels</li><li>Reporting &amp; Automation</li><li>Infrastructure &amp; Technology</li></ul>
+
+
+
+<h4>3.&nbsp; Growth</h4>
+
+
+
+<ul><li>Revenue</li><li>Organic growth</li><li>People-Process Perspective</li></ul>
+
+
+
+<p>It was an absolute proud moment to see all great minds think in unison to help eradicate major problems in the company.&nbsp; The takeaways were truly abundant as the activity came to a close c/o Program Manager Deborah Jane &#8220;<em>DJ</em>&#8221;&nbsp;Labastida.&nbsp; Everyone cannot wait for next year&#8217;s summit.</p>
+
+
+
+<p>At the end of the day, all Management members, Delegates, and Leaders went home with smiles in their faces with the commitment to: &#8220;<strong><em>Transform Tomorrow Together</em></strong>.&#8221;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/fusion-bridge-2019.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>14 Ways to Ensure Success While Making Debt Collection Calls</title>
+		<link>https://www.fusionbposervices.com/blog/14-ways-ensure-success-while-making-debt-collection-calls.html</link>
+				<comments>https://www.fusionbposervices.com/blog/14-ways-ensure-success-while-making-debt-collection-calls.html#respond</comments>
+				<pubDate>Wed, 22 May 2019 14:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[Hazel Nelson]]></dc:creator>
+				<category><![CDATA[Collection Services]]></category>
+		<category><![CDATA[Debt Collection]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6599</guid>
+				<description><![CDATA[The success of your debt collection efforts often depends on the effectiveness of your phone work. While following the Fair Debt Collection Practices Act is an essential part of any debt collection process, the tone, timing, and framing of the conversation of the collection executive can make or break the call. Having decades of experience [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>The success of your debt collection efforts often depends on the effectiveness of your phone work. While following <a href="https://www.consumerfinance.gov/ask-cfpb/are-there-laws-that-limit-what-debt-collectors-can-say-or-do-en-329/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">the Fair Debt Collection Practices Act</a> is an essential part of any debt collection process, the tone, timing, and framing of the conversation of the collection executive can make or break the call.</p>
+
+
+
+<p>Having decades of experience in handling debt collection
+calls on behalf of our clients, Fusion has in-depth knowledge on how to improve
+your debt collection calls.&nbsp; Here we
+share a few tips that can help you improve your debt collection efforts: </p>
+
+
+
+<h2>Tips for Improving Debt Collection Calls</h2>
+
+
+
+<h3><strong>Things to Remember:</strong></h3>
+
+
+
+<p>While making <a href="http://www.fusionbposervices.com/collection-services.html">debt collection calls</a> one must follow the letter of the law stating the best practices for A/R recovery. Apart from the legal ramifications, you must also keep in mind debt collection calls are made on behalf of your business and therefore, you should maintain the professional courtesy on the call. Remember, in this age of social media, one step out of the line can make your brand viral for all the wrong reasons. </p>
+
+
+
+<p>Therefore, you must stay positive yet in-control of your
+debt collection calls. A confident tone will earn you a better response from
+your customers and help you meet the needs of your business without damaging
+the company-customer relationship. </p>
+
+
+
+<p>So how to prepare for success while making debt collection
+calls? Here are some tried and tested tips:<strong>
+&#8211; </strong></p>
+
+
+
+<h3>1.    Be Proactive </h3>
+
+
+
+<p>following up after sending the product or providing service
+or one or two days prior to the due date may help you avoid non-payment.
+Therefore, you must proactively interact with your customers and ask them if
+everything was satisfactory and whether they have received the invoice.&nbsp; This will also help you maintain a better
+customer-company relationship.</p>
+
+
+
+<h3>2.    Be Prepared </h3>
+
+
+
+<p>Before making the call gather and have in front of you as
+much information about your customer and the debt as you can, including having
+the file and all the invoices at hand. Fusion always advocates having all the
+data at the agent’s fingertip.&nbsp; It helps
+them improve the success rate of their collection calls.</p>
+
+
+
+<h3>3.    Get Your Conversation Pointers Ready </h3>
+
+
+
+<p>Before making a collection call, you must jot down the
+pointers you want to talk about in a call.&nbsp;
+This will help you stay in control over the conversation and get back on
+track in case the interaction goes off the track. </p>
+
+
+
+<h3>4.    Smile During the Call<strong> </strong></h3>
+
+
+
+<p>While the customer can’t see your face, smiling can lighten
+your tone of voice. This way, you will sound more positive and confident.&nbsp; Fusion has always encouraged its collection
+agents to smile on call.&nbsp; It brings a
+positive impact on the call.&nbsp; </p>
+
+
+
+<h3>5.    Use the Person’s Name</h3>
+
+
+
+<p>A person’s name is the sweetest thing to his ears and
+addressing by their name adds the personal touch to the call creating a better
+customer experience.&nbsp; However, overdoing
+it will make the customer feel irritated.</p>
+
+
+
+<h3>6.    Speak Confidently and Concisely</h3>
+
+
+
+<p>Conveying a concise message in a confident tone can help you get a better response from your customers. However, you must never get emotional on collection calls or you will lose the control and the other party will take advantage of it.  If you feel emotional, you should wait for a while before answering. </p>
+
+
+
+<p>Sure, it is difficult to keep emotions at bay especially while dealing with tricky customers. But a tricky customer can use your emotion against you. For this reason, it is always better to outsource your debt collection service to an experienced debt collection agency.  </p>
+
+
+
+<h3>7.    Listen Carefully but also use Silence to Control the Conversation</h3>
+
+
+
+<p>You need to be a good listener on a debt collection call.
+Once you deliver your message in a concise way, you should listen to what the
+other party has to say in this matter.&nbsp;
+However, do not let the other party take control of the call. You can
+use silence to take control back as and when necessary.</p>
+
+
+
+<h3>8.    Stay Calm, Even if the Customer Gets Upset</h3>
+
+
+
+<p>Not all collection calls go smoothly. During some calls,
+emotions run high and the customer gets upset.&nbsp;
+However, you must stay calm in such situations.&nbsp; If you too get emotional, the purpose of the
+call will be ruined and you will have to start afresh. </p>
+
+
+
+<h3>9.    Take Notes </h3>
+
+
+
+<p>Documenting everything that is said, including the
+customer&#8217;s feedback, can help you in case of any dispute. </p>
+
+
+
+<h3>10.    Don&#8217;t Jump to Conclusions<strong> </strong></h3>
+
+
+
+<p>The initial collection call should aim to confirm that the
+debt has not been paid. This will ensure you are not alienating an otherwise
+good customer. The unpaid invoice may be a miscommunication, and not a
+collection issue at all, so you want to be careful. During our vast experience
+in providing debt collection services, we have seen that a mistake from the
+accounts department can lead to such problems. </p>
+
+
+
+<h3><strong>11</strong>.    Give Options</h3>
+
+
+
+<p>Suggesting options like paying in installments can help the
+debtor clear their dues faster. If the person you are calling agrees to pay by
+credit card, you must ensure that he/she signs the statement. You can fax them
+the authorization form and have them fax it back after signing. Do not leave
+anything to chances.</p>
+
+
+
+<h3>12.    Get a Commitment</h3>
+
+
+
+<p>Without a commitment from a customer to pay, the call is
+potentially wasted. Whether it’s a partial or full payment, or a commitment to
+pay at a certain date is essential for a successful collection call.</p>
+
+
+
+<h3>13.    Conclude Well</h3>
+
+
+
+<p>Before ending the call, you must convey the summary of the
+entire call to the debtor party, including how and when they will make the payment
+and depending on the mode of payment ask the debtor to confirm when the payment
+has been made.</p>
+
+
+
+<h3>14.    Keep in Interaction Open</h3>
+
+
+
+<p>Someone who may not be able to pay up may be able to pay
+later, so keep the conversation open. You can also help them figure out how to
+get the money without paying big interest. This way you can carry on your
+negotiation and still can maintain a good relationship with your customer. </p>
+
+
+
+<p>These are some of the tips that can help you make professional quality debt recovery calls. Having problems handling collection calls on your own? Fusion can help. We are a <a href="http://www.fusionbposervices.com/collection-services.html">licensed debt collection services provider</a> who has decades of experience in providing debt recovery services to numerous clients.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/14-ways-ensure-success-while-making-debt-collection-calls.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Role Of Live Agents In The Modern Customer Service Industry</title>
+		<link>https://www.fusionbposervices.com/blog/role-of-live-agents-in-modern-customer-service-industry.html</link>
+				<comments>https://www.fusionbposervices.com/blog/role-of-live-agents-in-modern-customer-service-industry.html#respond</comments>
+				<pubDate>Tue, 14 May 2019 18:41:37 +0000</pubDate>
+		<dc:creator><![CDATA[Bidisha Gupta]]></dc:creator>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Industry News]]></category>
+		<category><![CDATA[Live Agent]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6592</guid>
+				<description><![CDATA[With self-service on the rise, many people believe that the time is up for live human agents who have been the backbone of call center and customer service industry. Fusion respectfully begs to differ. Having more than 15 years of experience in the call center industry, we have studied consumer behavior closely. And while customer [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>With self-service on the rise, many people believe that the
+time is up for live human agents who have been the backbone of call center and
+customer service industry. Fusion respectfully begs to differ. </p>
+
+
+
+<p>Having more than 15 years of experience in the call center
+industry, we have studied consumer behavior closely. And while customer support
+has changed a lot over the years thanks to technological advancements like
+self-service and AI, live agents still remain the most preferred choice for
+customer support, especially in the complex cases. </p>
+
+
+
+<p>Here are a few of our observations on the role of live
+agents in the modern customer service industry:</p>
+
+
+
+<h3>1. People Still Want To Interact With A Human Agent</h3>
+
+
+
+<p>Customer service encounters through social media or self-service don’t always leave customers feeling great confidence. On the other hand, interacting with a fellow human can make your customers feel reassured. </p>
+
+
+
+<p>Even the tech-savvy <a href="http://www.fusionbposervices.com/blog/provide-quality-customer-service-to-the-millennials.html">millennials</a> who prefer self-service and other technology-rich customer service channels, resort to interacting with live customer service agents via voice or <a href="http://www.fusionbposervices.com/live-chat-support.html">chat</a> when they face a complex issue.  </p>
+
+
+
+<p>Therefore, live agents are still very much relevant in the modern customer service scene and if anything, they play a far more significant role today than the role it used to play earlier.</p>
+
+
+
+<h3>2. Customers Want Easy Access To Live Agents</h3>
+
+
+
+<p>No matter how technologically advanced a call center becomes, <a href="http://www.fusionbposervices.com/blog/engage-your-agents-xfactor-quality-customer-experience.html">there is no alternative of human agents</a>.  Even today, customers are more comfortable to convey their unique issues to a human agent than to a chatbot or IVR. Therefore, customers must be given the choice to talk to a live human agent and the option should be clearly conveyed to the customer. Many businesses these days think so as well.</p>
+
+
+
+<p>In the Customer Contact Week Digital market study, <a href="https://www.customercontactweekdigital.com/content-auto-download/5be9b822d1d92e406f3b64d1">64%</a> of respondents agreed that customers must have easy access to a live human agent.</p>
+
+
+
+<figure class="wp-block-image"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/CCW-MARKET-STUDY.jpg" alt="THE FUTURE OF THE CONTACT CENTER IN 2019" class="wp-image-6593" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/CCW-MARKET-STUDY.jpg 801w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/CCW-MARKET-STUDY-300x285.jpg 300w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/CCW-MARKET-STUDY-768x729.jpg 768w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/05/CCW-MARKET-STUDY-750x712.jpg 750w" sizes="(max-width: 801px) 100vw, 801px" /></figure>
+
+
+
+<p>As a call center with over 15 years of experience, Fusion has also seen that a customer is far more comfortable in discussing their issues with a human agent than telling it all to a faceless machine entity. They crave for the empathy that only a live human agent can deliver.</p>
+
+
+
+<h3>3. Live Agents Can Handle Complex Issues Better</h3>
+
+
+
+<p>All the issues handled by customer service can predominantly
+be classified into two groups –</p>
+
+
+
+<ul><li>Simple issues or inquiries </li><li>Complex problems</li></ul>
+
+
+
+<p>Simple issues can be defined as issues that can be handled
+within a single interaction or a basic issue reporting that can be resolved by
+the company without additional customer input. These issues generally are
+frequent and reoccurring and therefore, addressing them with automated channels
+like knowledge-based systems, social media, improved website forms, text
+messages, and chat systems makes complete sense. </p>
+
+
+
+<p>However, when the problem is complex, automated channels fail to effectively resolve them. For this reason, most complex issues are handled over the phone.</p>
+
+
+
+<p>It takes more time to explain the problem in detail so that the customer service agent can understand it, analyze it, and work on providing the resolution. However, the process can be improved by integrating AI with human agents.</p>
+
+
+
+<h3>4. Artificial Intelligence Should Complement Human Agents Instead Of Replacing Them</h3>
+
+
+
+<p>While <a href="https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/" target="_blank" rel="noreferrer noopener" aria-label="Artificial Intelligence (opens in a new tab)">Artificial Intelligence</a> or AI is the buzzword in modern customer support, it is still not in a position where it can replace a human agent. AI is to go a long way before it can master the art of natural language processing (NLP) and empathy. Instead, it can be used to aid a live agent and make their job easier.  </p>
+
+
+
+<p>For example – if one of your customers has an issue
+regarding their bills, a live agent will take some time to find relevant
+information. &nbsp;When AI is brought into the
+scene, it will be able to show the agent the past interaction history on the
+screen along with itemized billing so that it becomes easier for the agent to
+promptly resolve the issue and ask about the previous issue the customer
+faced.&nbsp; It will up the customer
+satisfaction level.&nbsp; </p>
+
+
+
+<h4>Conclusion: </h4>
+
+
+
+<p>Human agents were, are, and will be occupying the central position of the customer service industry.  The chance of AI replacing live agents looks very slim in the near future as AI needs a lot of improvement to be at par with a human agent in terms of emotional intelligence. </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/role-of-live-agents-in-modern-customer-service-industry.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Benefits Of Adopting Omnichannel Customer Support</title>
+		<link>https://www.fusionbposervices.com/blog/benefits-of-adopting-omnichannel-customer-support.html</link>
+				<comments>https://www.fusionbposervices.com/blog/benefits-of-adopting-omnichannel-customer-support.html#comments</comments>
+				<pubDate>Thu, 09 May 2019 15:22:56 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas Fortner]]></dc:creator>
+				<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[OmniChannel]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6587</guid>
+				<description><![CDATA[In this competitive age, good customer experience holds the key to customer loyalty.&#160; In order to provide a good experience, businesses must focus on delivering exceptional customer support that meets, if not overcomes your customer’s expectations. Customers today are exposed to the gold standard of customer service. They are aware of their options and the [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>In this competitive age, good customer
+experience holds the key to customer loyalty.&nbsp;
+In order to provide a good experience, businesses must focus on
+delivering exceptional customer support that meets, if not overcomes your
+customer’s expectations. </p>
+
+
+
+<p>Customers today are exposed to the gold
+standard of customer service. They are aware of their options and the power
+they have. Therefore, they have high expectations from a business.</p>
+
+
+
+<h2>So, What Does Your Customer Want?</h2>
+
+
+
+<p>They want a company to promptly respond to
+their queries and issues via the channel of their choice.&nbsp; If they wish to change the communication
+channel, they should be able to do so seamlessly without having to repeat
+themselves. </p>
+
+
+
+<p>Today most of the companies provide customer support via a number of channels including <a href="http://www.fusionbposervices.com/voice.html">voice</a>, <a href="http://www.fusionbposervices.com/live-chat-support.html">chat</a>, email, social media, instant messaging, web, and mobile. However, the challenge is to integrate those channels for providing seamless interaction with consistent experience at multiple touch-points across the life cycle of a customer.  Such a feat is only achievable by adopting an omnichannel approach. </p>
+
+
+
+<p>Fusion advocates <a href="http://www.fusionbposervices.com/customer-service.html" target="_blank" rel="noreferrer noopener" aria-label="omnichannel customer support (opens in a new tab)">omnichannel customer support</a> to provide customers with a cohesive and integrated customer experience irrespective of where and how a customer chooses to reach you. Omnichannel customer support brings you a number of benefits. Here are the top benefits of adopting omnichannel customer support.</p>
+
+
+
+<h2>Benefits of Omnichannel Customer Support &#8211;</h2>
+
+
+
+<h3>1. Gain Greater Customer Insights</h3>
+
+
+
+<p>Customer support channels such as chat, social media, forums, and emails, leave a recorded written customer trace. You can use this data to accumulate customer information in its context. It will help you better understand how the customers choose to interact with your brand and their needs across all channels.</p>
+
+
+
+<p>Having this data in one place will enable you to take proactive actions and create effective strategies to tweak and enhance your customer support and deliver better customer experience.</p>
+
+
+
+<h3>2. Serve Your Customers Where They Are</h3>
+
+
+
+<p>Customers today want to make purchases on their own terms, at their convenience, and in a way that suits them the best. To build a sustainable business, you must satisfy your customers. That means you have to appeal to them wherever they are.</p>
+
+
+
+<p>No matter what channel they choose to interact with you, you must provide seamless, cohesive support via the same. If the customer wishes to change their channel, they should be able to continue with the conversation across the channel as well.</p>
+
+
+
+<p>Customers today are more powerful and aware
+of the options they have. Therefore, they expect more from brands.&nbsp; They expect to get the best experience
+wherever they are — whether online or offline. Providing it to them will not
+only improve your conversion rate but will also increase a customer’s loyalty.</p>
+
+
+
+<h3>3. Enhance the Shopping Experience Everywhere</h3>
+
+
+
+<p>Your customer can choose to shop online,
+in-app, or in a brick and mortar store, and still expect the same level of
+customer experience. </p>
+
+
+
+<p>For example – a customer looks for a product he has seen online at a brick and mortar store and the in-store representative finds the product out of stock.  He can then place an order for the same in their e-commerce store, to be delivered at the customer&#8217;s doorstep. </p>
+
+
+
+<p>This way, omnichannel customer support can
+enhance the shopping experience.</p>
+
+
+
+<h3>4. Enhance Real-time Customer Support</h3>
+
+
+
+<p>As customers’ demands are increasing by the day, businesses are making efforts to meet them. Customers want their needs to be met and they want it now. If you cannot deliver a real-time answer to their questions, or provide instant support, you are indirectly asking them to leave.</p>
+
+
+
+<p>Real-time customer support boost customer satisfaction and customer loyalty. With <a href="http://www.fusionbposervices.com/blog/5-omnichannel-customer-service-best-practices-to-boost-customer-experience.html">omnichannel customer support</a>, it is possible to offer real-time support across a number of channels, creating a seamless customer experience.</p>
+
+
+
+<h3>5. Happier, More Engaged and Loyal Customer</h3>
+
+
+
+<p>When you have omnichannel customer support in place, your customers will be able to switch between channels seamlessly without feeling the frustration of having to repeat the issues. Also having up-to-date data in one place means faster resolution of issues. Such things definitely add to customer satisfaction rate and result in happier customers. Everyone knows that a <a href="http://www.fusionbposervices.com/blog/start-by-keeping-your-customers-happy.html">happy customer</a> is the greatest thing for a business.</p>
+
+
+
+<p>These are the vital benefits of adopting an omnichannel approach when it comes to customer service. By adopting an omnichannel approach you can enhance your customer experience, stay ahead of the competition with impeccable customer service, earn loyal and engaged customers who keep coming back, improving your business performance. </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/benefits-of-adopting-omnichannel-customer-support.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>4 Best Practices To Improve Your Proactive Chat Service</title>
+		<link>https://www.fusionbposervices.com/blog/4-best-practices-to-improve-proactive-chat-service.html</link>
+				<comments>https://www.fusionbposervices.com/blog/4-best-practices-to-improve-proactive-chat-service.html#respond</comments>
+				<pubDate>Thu, 02 May 2019 15:56:56 +0000</pubDate>
+		<dc:creator><![CDATA[Alicia Johnson]]></dc:creator>
+				<category><![CDATA[Live Chat Service]]></category>
+		<category><![CDATA[customer satisfaction]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6583</guid>
+				<description><![CDATA[You have been told that proactive chat is a great way to up the customer satisfaction level. However, proactive chats too can ruin otherwise good customer experience. Here’s an example – while browsing a site the live chat agent starts an interaction with you stating its various products and features that are already given on [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>You have been told that proactive chat is a great way to up the customer satisfaction level. However, proactive chats too can ruin otherwise good customer experience.</p>
+
+
+
+<p>Here’s an example – while browsing a site the live chat agent starts an interaction with you stating its various products and features that are already given on the webpage and do not give you a chance to convey what you are looking for. How would you feel then? </p>
+
+
+
+<p>It is natural to get annoyed at such behavior. Proactive chat
+only enhances the customer experience when it is used the way it is supposed
+to.&nbsp; Your agents must know what works the
+best and what does not.&nbsp; To save you the
+time, Fusion brings you the best tips and tricks to turn a bad online
+experience into a winning one.</p>
+
+
+
+<h2>1. Leverage analytics to find the right time</h2>
+
+
+
+<p>The key to <a href="http://www.fusionbposervices.com/live-chat-support.html">providing quality customer service through proactive chat</a> is using the analytics to your benefit. You can use analytics to determine many factors like:</p>
+
+
+
+<ul><li>Average browsing time of a visitor.</li><li>His/her behavior for every page of the website.</li></ul>
+
+
+
+<p>Based on the information gathered through analytics, you can
+decide the appropriate wait time for sending out a proactive message.</p>
+
+
+
+<h2>2. Track referring URLs</h2>
+
+
+
+<p>In the present age, your work does not end after placing promotional links at different places online, you need to also keep track of its aftermath.  Tracking referring URLs can create great conversion opportunities. You must identify the users who came to your website through the referral links and send out proactive chat invitations to them.</p>
+
+
+
+<p>In case they came to your site grab some promotional offers featured on the referring website, a proactive chat is the best way to direct them to the offer page. Proactive chat can also be used to resolve any other query they might have regarding the offer. </p>
+
+
+
+<h2>3. Provide 24/7 customer support</h2>
+
+
+
+<p>Customers these days expect instant query resolution. Moreover, they expect round the clock support 365 days a year from you.  You must be there to guide/assist them at any point of the day.  And that means having some proven customer touch points on a 24/7 basis.  These touch points include email, VOIP channels, social media platforms, live chat and more.</p>
+
+
+
+<p>In this situation, proactive chat can be your best option &#8211; it helps help you to know your potential customers and their queries before they approach you and provide the most satisfactory solution. </p>
+
+
+
+<h2>4. Use proactive chat tools for smarter communications</h2>
+
+
+
+<p>As visual learners, your customers will learn better when you
+explain you explain facts about your products and services through demos. You
+can use this to your advantage and employ tools like live voice chat, live
+video chat to educate them.&nbsp; You can also
+redirect your customers to relevant pages using co-browsing or proactively
+offer them links to support videos through chat.</p>
+
+
+
+<p>These tips can help you improve your lackluster proactive chat
+support into an effective tool to improve customer satisfaction. </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/4-best-practices-to-improve-proactive-chat-service.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>5 Benefits Of Using AI-Based Chatbots For Your Business</title>
+		<link>https://www.fusionbposervices.com/blog/5-benefits-of-using-ai-based-chatbots-for-business.html</link>
+				<comments>https://www.fusionbposervices.com/blog/5-benefits-of-using-ai-based-chatbots-for-business.html#respond</comments>
+				<pubDate>Tue, 30 Apr 2019 16:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[Douglas Fortner]]></dc:creator>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Chatbot]]></category>
+		<category><![CDATA[Customer Engagement]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6576</guid>
+				<description><![CDATA[Chatbots have been on the rise since a couple of years and have already gained popularity. Chatbots can help businesses interact with their customers and prospects in a new way using messaging apps, the latest technology, and Artificial Intelligence. What is a Chatbot? A chatbot is a service that can interact with you just like [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Chatbots have been on the rise since a couple of years and
+have already gained popularity. Chatbots can help businesses interact with
+their customers and prospects in a new way using messaging apps, the latest
+technology, and Artificial Intelligence. </p>
+
+
+
+<h2>What is a Chatbot?</h2>
+
+
+
+<p>A chatbot is a service that can interact with you just like a real person. Powered by rules and  Artificial Intelligence, chatbots are programmed to simulate a real conversation with users through a chat interface. They are based on machine learning to imitate human conversation and react to service requests.</p>
+
+
+
+<p>AI helps them learn the language, human tone, and behavior with every interaction, which in turn helps them to be more intelligent and serve the users better. </p>
+
+
+
+<p>For a better understanding of how chatbots can contribute to
+your business, let us find the top 7 benefits of chatbots:</p>
+
+
+
+<h2>1. Being Present on Messaging Platforms</h2>
+
+
+
+<p>Today messaging applications have more users than social
+media network. And as customers today think that chat is a convenient and
+faster way to interact with a business, businesses today have the chance to
+reach more audience via chatbots while staying trendy.&nbsp; </p>
+
+
+
+<p>The Majority of smartphone users today do not want to
+download new apps. So, businesses can integrate their chatbot in one of the
+popular platforms that the customers use on a daily basis such as &#8211; Facebook,
+Instagram, WhatsApp, etc. It will also save you time and money. </p>
+
+
+
+<h2>2. Improved Customer Service</h2>
+
+
+
+<h4>A. Extensive Customer Assistance</h4>
+
+
+
+<p>According to a <a href="https://econsultancy.com/83-of-online-shoppers-need-support-to-complete-a-purchase-stats/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">survey</a>, 83% of online shoppers want assistance during shopping. So, your customers may need assistance at any time. Additionally, shoppers may also face navigation issues, or have queries about registration, payment, checkout, and delivery or about the product itself.</p>
+
+
+
+<p>In such situations, chatbots can provide real-time assistance through interactive communication over text and voice. They can also provide customers with important relevant information from knowledge base, blogs, tutorial videos and so on.</p>
+
+
+
+<h4>B. Always-Available Customer Support</h4>
+
+
+
+<p>A great 24/7 customer service has a positive impact on customer satisfaction. <a href="http://www.fusionbposervices.com/automation-solutions.html">Chatbots can help you improve the customer support</a> process by quickly giving automated answers to repetitive questions immediately and forwarding the complex ones to a human agent.</p>
+
+
+
+<p>Apart from that, chatbots allow businesses to attend more queries at the same time, allowing companies to scale up their operation to new markets globally.</p>
+
+
+
+<h4>C. Proactive Customer Interaction</h4>
+
+
+
+<p>Companies can also use chatbots to start <a href="http://www.fusionbposervices.com/blog/proactive-customer-service-and-how-to-start-practicing-it.html">proactive customer interactions</a> regarding any issue, any time of the day. This will make your customers feel that your brand cares for them on a 24/7 basis. This can help improve your brand perception in the long run.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/04/chatbot-example.jpg" alt="AI-Based Chatbot Example" class="wp-image-6579" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/04/chatbot-example.jpg 720w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/04/chatbot-example-300x208.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure></div>
+
+
+
+<h2>3. Increased Customer Engagement</h2>
+
+
+
+<p>Chatbots can be a great tool for customer engagement.
+Chatbots can provide the customers with a specific slice of information and
+lead the interaction based on the user input at that time.&nbsp; This way, chatbots never provides a dull
+interaction with irrelevant and useless information resulting in better
+engagement. </p>
+
+
+
+<h2>4. Monitoring Consumer Data and Gaining Insights</h2>
+
+
+
+<p>Businesses can make changes in their service/products based on the feedback chatbots collect through simple questions. As chatbots are also capable of tracking purchasing patterns and consumer behavior by monitoring user data, they can also help a company to decide marketing strategies.</p>
+
+
+
+<p>Companies can use chatbots to track consumer request and responses, predict responses based on the language and direct the chatbot to suggest an alternative product or service. </p>
+
+
+
+<h2>5. Cost Savings</h2>
+
+
+
+<p>Implementing a full functioning chatbot is cheaper and faster than creating a cross-platform app or hiring chat support agents for each task. Businesses today can <a href="http://www.fusionbposervices.com/automation-solutions.html" target="_blank" rel="noreferrer noopener" aria-label="choose from ready-made applications (opens in a new tab)">choose from ready-made applications</a> developed by Facebook, Microsoft, and other IT giants.</p>
+
+
+
+<p>Being automated solutions, chatbots can handle many customers at once, saving employee costs and eliminating the scope for human errors. Finally, as customers can access chatbots easily within seconds and interact immediately, the cost of user acquisition also comes down.</p>
+
+
+
+<p>These are some of the major benefits chatbots bring to your business. with technological advancements, chatbots will become smarter, better and more effective. As chatbot gradually gain maturity, this is the right time to adopt this new technology and give your business an edge.  </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/5-benefits-of-using-ai-based-chatbots-for-business.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Fusion BPO Services Wins The Golden Globe Tigers Awards 2019</title>
+		<link>https://www.fusionbposervices.com/blog/fusion-bpo-services-wins-the-golden-globe-tigers-awards-2019.html</link>
+				<comments>https://www.fusionbposervices.com/blog/fusion-bpo-services-wins-the-golden-globe-tigers-awards-2019.html#respond</comments>
+				<pubDate>Thu, 25 Apr 2019 17:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[Hazel Nelson]]></dc:creator>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Award]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6534</guid>
+				<description><![CDATA[Fusion BPO Services is the proud winner of the prestigious Golden Globe Tigers Awards 2019 (Excellence in Training &#38; Development) for the Best Leadership Development Program for Top Management category, at The Le’ Meridien, Kuala Lumpur, Malaysia, on 24th April 2019. The Golden Globe Tigers awards is a multifunctional, multidiscipline industry focussed award that recognizes [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Fusion BPO Services is the proud winner of the prestigious Golden Globe Tigers Awards 2019 (Excellence in Training &amp; Development) for the <em>Best Leadership Development Program for Top Management</em> category, at The Le’ Meridien, Kuala Lumpur, Malaysia, on 24th April 2019.</p>
+
+
+
+<p>The Golden Globe Tigers awards is a multifunctional, multidiscipline industry focussed award that recognizes excellence in marketing, branding CSR &amp; social innovation, education &amp; academic across leadership levels in individual and organization that believes in aiming for excellence and perfection in everything they set their eyes on.</p>
+
+
+
+<p>Winning the Golden Globe Tigers awards is, therefore, among the highest recognition individuals and organizations can aim to achieve.</p>
+
+
+
+<p>Kishore Saraogi, the co-founder and director of Fusion group said “<em>Fusion is reaping the result of its relentless efforts to achieve excellence in every category. Fusion always believes in the best in people and invests in their growth through proper training and development. This award will encourage our people to aim for bigger goals and reap better results that will help both our company and our esteemed clients scale new heights of success</em>.”</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://www.fusionbposervices.com/blog/wp-content/uploads/2019/04/Golden-Globe-Tigers-Awards2019.jpg" alt="The Golden Globe Tigers Awards 2019" class="wp-image-6536" width="720" height="885" srcset="https://www.fusionbposervices.com/blog/wp-content/uploads/2019/04/Golden-Globe-Tigers-Awards2019.jpg 720w, https://www.fusionbposervices.com/blog/wp-content/uploads/2019/04/Golden-Globe-Tigers-Awards2019-244x300.jpg 244w" sizes="(max-width: 720px) 100vw, 720px" /></figure></div>
+
+
+
+<h4><strong>About Golden Globe Tigers Award</strong></h4>
+
+
+
+<p>The Golden Globe Tigers awards aim to recognize &#8220;TIGERS&#8221; in marketing, branding CSR &amp; social innovation, education &amp; academic across leadership levels in individual and organization that aims at believing that excellence is infinite and perfection has no limit and targets are milestones not an end of the journey. For more info &#8211;  <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://goldenglobetigers.org/" target="_blank">http://goldenglobetigers.org</a> </p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/fusion-bpo-services-wins-the-golden-globe-tigers-awards-2019.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

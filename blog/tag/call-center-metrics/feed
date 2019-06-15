@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>call center metrics &#8211; Fusion BPO Services Blog</title>
+	<atom:link href="https://www.fusionbposervices.com/blog/tag/call-center-metrics/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.fusionbposervices.com/blog</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Apr 2013 13:09:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>Can You Build Better Call Center Metrics With CRM?</title>
+		<link>https://www.fusionbposervices.com/blog/can-you-build-better-call-center-metrics-with-crm.html</link>
+				<comments>https://www.fusionbposervices.com/blog/can-you-build-better-call-center-metrics-with-crm.html#comments</comments>
+				<pubDate>Thu, 04 Apr 2013 13:09:56 +0000</pubDate>
+		<dc:creator><![CDATA[Alicia Johnson]]></dc:creator>
+				<category><![CDATA[Call Center]]></category>
+		<category><![CDATA[call center metrics]]></category>
+		<category><![CDATA[crm]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=4899</guid>
+				<description><![CDATA[What is the lifeline of a contact center or a call center? NUMBERS Most contact centers depend on call center metrics and performance for measuring the efficiency of agents in handling the customer&#8217;s needs. While, measuring the right call center metrics is important, not using CRM for creating quality call center metrics can be crucial [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>What is the lifeline of a contact center or a call center?</p>
+<ul>
+<li>NUMBERS</li>
+</ul>
+<p>Most contact centers <a href="http://www.fusionbposervices.com/blog/is-your-contact-center-tracking-the-right-metrics.html">depend on call center metrics</a> and performance for measuring the efficiency of agents in handling the customer&#8217;s needs. While, measuring the right call center metrics is important, not using CRM for creating quality call center metrics can be crucial at some point of time.</p>
+<p>Well, the call centers are the house of software that produces metrics of quite a low level. The paradox of these measurements is that they are useful to manage the call center, but they cannot manage the customer relationship in a better way.</p>
+<h3>360˚ Review Of The Customer Experience</h3>
+<p>You need to have a <a class="zem_slink" title="360-degree feedback" href="http://en.wikipedia.org/wiki/360-degree_feedback" target="_blank" rel="wikipedia">360 degree review</a> of the customer history, and by nature there is hardly any call center software that can provide you with such a 360 degree visibility. There are many operational metrics produced by the call center software which are actually inward facing.</p>
+<p>Some of the metrics like: <b><i>Number of calls offered (NCO) </i></b><i>or</i><b><i> Average Calls Per Hour (ACH)</i></b> are concerned to see how well the CSR operates, but they do not relate to the customer experience.</p>
+<p><a href="http://www.fusionbposervices.com/blog/top-10-crm-software-for-better-customer-support-in-2013.html">CRM softwares</a> are designed to integrate and merge the data from different sources in a central system of record to deliver the solution in real-time, have a holistic view of the customer and agent relationship.</p>
+<p>Fusion does take care of the holistic view when it comes to maintenance of customer relationships. Well we also have the visibility to the customers by region, type, affinity and other similar kind of segmentations. It even allows us to track the <a href="http://www.fusionbposervices.com/blog/contact-center-technologies-boost-up-the-kpi.html">KPI</a> (key performance indicators) and operational metrics which are relevant to the company’s market, ROI and customer strategy objectives.</p>
+<p>The CSR not only gives the opportunity to have the complete history of the customer but gives access to better opportunities to satisfy the customers but also reduces the average time per call.</p>
+<p>While doing the <a href="http://www.fusionbposervices.com/blog/top-10-crm-software-for-better-customer-support-in-2013.html">360 degree review of the customer relationship management software</a>, you will come across better versions of the conventional call center metrics. One such metric is the <b>FCRR </b>(First Call Resolution Rate)<b>.</b></p>
+<p>FCRR is the percentage of customer calls that get resolved successfully in the first interaction. FCCR, one of the key factors that influences customer and retain them for a longer tenure. FCCR helps to determine whether the contact centers technology are working smoothly or not.</p>
+<p>While coming across the survey done by <a href="http://www.club-cmmc.it/lettura/Contact_Centre_Decision_Makers2009.pdf" target="_blank">ContactBabel</a>, we came to know that the FCCR has particularly one disadvantage. The survey says that it is hard to measure especially when we encounter a recurring problem, but it does not occur often. This takes place when the customer gets access over the multiple contact center channels. Among them, some are not handled by the call center directly like &#8211; email and paper mail.</p>
+<h3>How CRM Changes The Business Outlook?</h3>
+<p>In this typical business environment, the leading contact center prefers to use the improved CRM system data along with call center data, using the complete view of the customer. You will realize whether the customer gets the solution in the first call or they switched to any other source of communication, like contacting the sales person directly.</p>
+<p>At Fusion, we realize the importance of multiple interactions to provide better customer solutions through CRM and prevent the turning of call center into hell. Proper installation of the CRM is the right technology to have accurate business solutions and escalate the customer efficiency.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/can-you-build-better-call-center-metrics-with-crm.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>

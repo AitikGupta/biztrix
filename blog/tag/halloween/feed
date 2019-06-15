@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Halloween &#8211; Fusion BPO Services Blog</title>
+	<atom:link href="https://www.fusionbposervices.com/blog/tag/halloween/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.fusionbposervices.com/blog</link>
+	<description></description>
+	<lastBuildDate>Fri, 30 Oct 2015 16:17:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+	<item>
+		<title>6 New Age Customer Service Horror Stories That Will Leave You Appalled This Halloween</title>
+		<link>https://www.fusionbposervices.com/blog/6-customer-service-horror-stories-that-will-leave-you-appalled-this-halloween.html</link>
+				<comments>https://www.fusionbposervices.com/blog/6-customer-service-horror-stories-that-will-leave-you-appalled-this-halloween.html#respond</comments>
+				<pubDate>Fri, 30 Oct 2015 16:17:45 +0000</pubDate>
+		<dc:creator><![CDATA[Alicia Johnson]]></dc:creator>
+				<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Halloween]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6204</guid>
+				<description><![CDATA[Businesses these days are much more aware of customer expectations and therefore, tries to leave no stones unturned when it comes to customer service. But even then occasional slips are sometimes reported, giving the customer service department a bad reputation while leaving the customers horrified even in this golden age of customer service. And those [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Businesses these days are much more aware of customer expectations and therefore, tries to leave no stones unturned when it comes to customer service. But even then occasional slips are sometimes reported, giving the customer service department a bad reputation while leaving the customers horrified even in this golden age of customer service. And those make the perfect stories to share with our readers on the eve of Halloween.</p>
+<p>So, sit with your bucket of treats and get ready for a good scare:</p>
+<ol>
+<li>
+<h2>No Web Self-Service Option available</h2>
+</li>
+</ol>
+<p><a href="https://d16cvnquvjw7pr.cloudfront.net/resources/whitepapers/Zendesk_WP_6_Requirements_SaaS_Help_Desk.pdf" target="_blank">Forrester</a> reports that 36% of US customers online prefer self-sufficiency for service. This number jumps up to 46% for people aged between 18 and 29 years.  When no self-service option is available, customers have no choice but to call customer care and wait in the long queue.  Millennial customers these days are always on the lookout for simple, fast solutions to their problems.</p>
+<p>By not providing a self-service option for your customers, you could be driving web savvy consumers away.</p>
+<ol start="2">
+<li>
+<h2>Navigating through a Complex IVR System.</h2>
+</li>
+</ol>
+<p>Over time, IVR system has got extensive and, therefore, complicated. Where to complain about a service or an anomaly in billing? – Most customers don’t know for sure. As a result, IVR navigation often involves an incredible amount of guesswork, which leads to a poor customer experience.</p>
+<p>The confusion and frustration are enough to spook away the customers. Of course, this is a well-intentioned initiative turned into a disaster – the design and implementation gone wrong, setting the stage for a gory customer encounter.</p>
+<ol start="3">
+<li>
+<h2>Agents Can’t Solve Problems Faster</h2>
+</li>
+</ol>
+<p>The primary goal of any customer service department is to solve the customers’ problems. A secondary goal is to do it quick and effectively.  According to <a href="http://www.cincom.com/pdf/SYUS0804030.pdf" target="_blank">Ventana Research</a>, 44% of contact center agents need to access more than three applications to resolve an issue, and 70% admit that switching between applications is a huge waste of time. Fusion has experienced that “<em>Alt+Tabing</em>” can add 1-2 minutes to a typical customer call. It slows your agents down and makes the issue resolution process slower.</p>
+<p>To resolve this, companies can deliver a process-driven workflow over a unified agent desktop with application data available on a single interface.</p>
+<ol start="4">
+<li>
+<h2>Repeating Information over and again</h2>
+</li>
+</ol>
+<p>Customers often ask for some information via email and then call customer service to confirm whether their request has been processed or not. And they end up finding that the agent does not have access to their support email and therefore, they have to repeat the information. – this is not a very uncommon scenario, even in 2015.</p>
+<p>As much as it pains us to say, there are only a few companies that have the system of integrating information received through multiple customer service channels into a single interface.</p>
+<p>Once it is done, it will be much easier for the customer service department to meet those requests and resolve issues. Customers too will breathe a sigh of relief from not having to repeat information every time they change channels or speak with a different agent.</p>
+<p>All they need to provide is their phone number or email address registered with the company. If it can be that simple, why complicate the process?</p>
+<ol start="5">
+<li>
+<h2>Long wait time before their call got through</h2>
+</li>
+</ol>
+<p>The customer wants to upgrade their current order but has some questions regarding that, so he calls up the customer service department.  But to his dismay, he has to wait for over an hour to talk to a live agent. Most customers these days do not have the time. As a result, most of them slam down the phone after 10 minutes, feeling frustrated.</p>
+<p>The solution to this problem is to include a call back request into the IVR script. A caller who opts for that option will get a call back from the customer service department at a time that suits the customer.</p>
+<ol start="6">
+<li>
+<h2>Agents won’t go beyond the script to help the customer</h2>
+</li>
+</ol>
+<p>This is a typical issue for a large number of companies. Most businesses provide their customer service agents with nothing but a rigid script that does not have room for improvisation as per the customer’s needs. And in a large number of cases, businesses do not allow agents to go beyond the script and make small decisions on the spot, making the process far lengthier than it should.</p>
+<p>Providing agents with a conversation guide and allowing them to make small decisions, like providing a small discount to an angry customer on his next purchase above a certain amount, can help businesses manage crisis situations in a better way.</p>
+<p>Which one of these has annoyed you the most or did we miss out any horror story that you might have encountered?</p>
+<p>Share your experiencesto help us eliminate horrifying customer service scenarios.</p>
+<p><strong>Wish you a <em>Spooktacular</em> Halloween.</strong></p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/6-customer-service-horror-stories-that-will-leave-you-appalled-this-halloween.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Halloween Special: How to Get Rid of These 3 Types of Walking Dead Call Center Employees?</title>
+		<link>https://www.fusionbposervices.com/blog/get-rid-of-these-3-types-of-walking-dead-call-center-employees.html</link>
+				<comments>https://www.fusionbposervices.com/blog/get-rid-of-these-3-types-of-walking-dead-call-center-employees.html#respond</comments>
+				<pubDate>Fri, 31 Oct 2014 15:50:21 +0000</pubDate>
+		<dc:creator><![CDATA[Alicia Johnson]]></dc:creator>
+				<category><![CDATA[Call Center]]></category>
+		<category><![CDATA[Halloween]]></category>
+
+		<guid isPermaLink="false">http://www.fusionbposervices.com/blog/?p=6047</guid>
+				<description><![CDATA[Zombies make great Halloween costumes. But, there’s no way you want a walking dead in your workforce, pacing around lifelessly,  muttering inconsequential babble with business jargons and outdated information.  And then there’s also a chance that the undead will affect the entire workforce in the long run. This Halloween, we want you to meet the [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Zombies make great Halloween costumes. But, there’s no way you want a walking dead in your workforce, pacing around lifelessly,  muttering inconsequential babble with business jargons and outdated information.  And then there’s also a chance that the undead will affect the entire workforce in the long run.</p>
+<p>This Halloween, we want you to meet the zombies that are sometimes found in call centers and how can a call center get rid of them. Let us begin from the most dangerous one.</p>
+<h3><strong>Floor Manager Zombie</strong></h3>
+<p><strong>Symptoms:</strong>  After being clawed in from all sides, some floor managers finally give up. It freezes their brains and leaves them incapable of thinking properly.  One day the employees complained about not having enough work, while the next day, it’s a chaos out there.  The work force is not being properly utilized, no employee is getting their annual leaves in an orderly manner and the manager just sits there with void in their eyes, not knowing how to create a proper schedule that allows optimum use of staff.</p>
+<p>While we never faced them in person, these types of zombies are pretty dangerous, because often they are in charge of the workforce. And if top of the line is in such tumultuous state, one can easily understand that they are not far from a zombie apocalypse.</p>
+<p><strong>Solution:</strong> Since call centers work 24x7x365, it is difficult to manage the workforce smoothly. However, if the floor manager gets a little help from different workforce management software and strategies, they can come up with a fresh new way to monitor their agents, evaluate coverage for the estimated call volumes, update the schedule of agents who are off sick, and add training sessions to the quiet times of the day. Now that will bring order among the chaos and give the manager time to heal him.</p>
+<h3><strong>Missing Parts Zombie</strong></h3>
+<p><strong>Symptoms:</strong>  These zombies often walk around the office looking for missing bits of brains i.e. information. You will often find them looking blankly at numerous reports trying to find some relation between them.</p>
+<p>For example – they are looking at separate reports on call volume; headcount and average handle time and still cannot find a relation between them. If such are the way supervisors act, how are they supposed to pass on key data to the management?  And how will the management be able to take correct decisions based on these data? There’s no way a call center can survive with such zombies in the team.</p>
+<p><strong>Solution:</strong> With training on workforce management, the supervisors can learn to manage the team and create a call center performance report that shows the total number of agents, AHT, interaction volumes, service level, ASA, as well as percentage of interactions abandoned as forecasted vs. actual interaction abandoned.</p>
+<p>The report will show that the calls are being handled efficiently, the SLA and KPIs are in place and the agent pool is satisfactory.  Above all, the report should be easy to understand, because based on the report; the management decides the next course of action.</p>
+<h3><strong>Disengaged Zombie &#8211; Agents</strong></h3>
+<p><strong>Symptoms:</strong>  Every call center has them… you can see them chained to their desk,  rotting their brain out as they wait for a training to be scheduled,  waiting for the approved breaks, waiting for their week off… and so on.  It’s a perpetual circle of wait with no real hope of getting out of this situation.  And oh… they have a vacant expression.</p>
+<p><strong>Solution:</strong> However, with better workforce management and gamification process, it is possible to bring these agents back to life.  It worked for us in the past.</p>
+<p>Better workforce management can help call centers find the optimal working hours for each employee and arrange for the next shift to takeover when current agents are experiencing a burnout. It also allows them to allow or reject requests for leave depending on current workforce.</p>
+<p>Basically, workforce management will empower employees to take control of their training and make the workforce a smarter one. On the other hand,   gamification can increase employee engagement and cure the disengagement of the employees and save the workplace from zombie apocalypse.</p>
+<p>With proper training, workforce management and gamification, a call center can bring their agents, managers and supervisors back to life and ensure a smooth operation. Trust us on this… we’ve been there and revived them back to life.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://www.fusionbposervices.com/blog/get-rid-of-these-3-types-of-walking-dead-call-center-employees.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

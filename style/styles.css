@@ -1,0 +1,2323 @@
+/* Created by Rabi chandra ash */
+body { 
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background:#ffffff url(../images/bpo.gif) repeat-x;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#2F2E2E;
+	font-weight:normal;
+	font-size:12px;  
+	}
+	
+img { border:0px;
+}
+a {outline:none;}
+.orange_txt_01 { 
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#F78C20;
+	font-weight:bold;
+	text-align:left;
+	padding-bottom:4px;
+	
+	}
+.black_txt_info {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	color:#393a3a;
+	font-weight:bold;
+	text-decoration:none;
+}
+	
+	
+h2 {
+	font-family:Arial, Helvetica, sans-serif;
+	/*--color:#F78C20;--*/
+	font-weight:bold;
+	padding:0px;
+	margin:0px;
+	padding-bottom:2px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:24px;
+	letter-spacing:-1px;
+	color:#3288B6;
+}
+	
+.orange_txt {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#F78C20;
+	font-weight:bold;
+	text-align:left;
+	padding:0px;
+	margin:0px;
+	padding-bottom:4px;
+	
+	}
+	
+.orange_txt_iwilluseletter { 
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#F78C20;
+	font-weight:bold;
+	text-align:left;
+	padding-bottom:4px;
+	
+	}
+	
+.Black_txt_02 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:justify;
+}
+
+p {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:justify;
+}
+
+.Black_txt_02 a{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#3288B6;
+	font-weight:bold;
+	text-align:justify;
+	text-decoration:none;
+}
+
+.Black_txt_02 a:hover{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#3288B6;
+	font-weight:bold;
+	text-align:justify;
+	text-decoration:underline;
+}
+
+
+.Blackist_txt_one {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#868585;
+	font-weight:bold;
+	text-align:left;
+	padding-bottom:3px;
+}
+
+.Blackist_txt_one a{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#868585;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+
+.Blackist_txt_one a:hover{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#868585;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+
+.orange_mediam_03 {
+
+	font-family: Tahoma;
+	font-size:13px;
+	color:#F78C20;
+	font-weight:bold;
+	text-align:justify;
+}
+
+.orange_mediam_04 {
+
+	font-family: Tahoma;
+	font-size:12px;
+	color:#202121;
+	font-weight:bold;
+	text-align:left;
+	text-decoration:none;
+}
+
+.orange_mediam_04 a{
+
+	font-family: Tahoma;
+	font-size:12px;
+	color:#202121;
+	font-weight:bold;
+	text-align:left;
+	text-decoration:none;
+}
+
+.orange_mediam_04 a:hover{
+
+	font-family: Tahoma;
+	font-size:12px;
+	color:#202121;
+	font-weight:bold;
+	text-align:left;
+	text-decoration:underline;
+}
+
+.Black_txt_04 {
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#202121;
+	font-weight:normal;
+	text-align:left;
+}
+
+.request_call_05 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:19px;
+	color:#8C8A8A;
+	font-weight:bold;
+	text-align:left;
+	padding-bottom:1px;
+	
+	}
+	
+.request_call_06 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:19px;
+	color:#FB8103;
+	font-weight:bold;
+	text-align:left;
+	
+	}
+	
+.request_call_07 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#8C8A8A;
+	font-weight:bold;
+	text-align:left;
+	padding-bottom:1px;
+	
+	}
+	
+.request_call_08 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:26px;
+	color:#5B5B5B;
+	font-weight:normal;
+	text-align:left;
+	text-transform:capitalize;
+	
+	}
+	
+.request_call_09 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#5B5B5B;
+	font-weight:normal;
+	text-align:left;
+	text-transform:capitalize;
+	
+	}
+	
+.request_call_10 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:26px;
+	color:#ffffff;
+	font-weight:normal;
+	text-align:left;
+	text-transform:capitalize;
+	
+	}
+	
+.request_call_11 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#ffffff;
+	font-weight:normal;
+	text-align:left;
+	text-transform:capitalize;
+	
+	}
+	
+.request_call_12 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#5B5B5B;
+	font-weight:normal;
+	text-align:left;
+	text-transform:capitalize;
+	
+	}
+	
+.drop_downn_menu { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff;
+	font-weight:bold;
+	text-align:left;
+	}
+	
+.white_txt_15 { 
+
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CDCDCC;
+	font-weight:normal;
+	text-align: center;
+	
+	}
+	
+.white_txt_15 a{ 
+
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CDCDCC;
+	text-decoration:none;
+	}
+	
+.white_txt_15 a:hover{ 
+
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CDCDCC;
+	text-decoration:underline;
+	}
+	
+.white_txt_16 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#EEEEED;
+	font-weight:bold;
+	text-align: center;
+	
+	}
+	
+.white_txt_16 a{ 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#EEEEED;
+	font-weight:bold;
+	text-align: center;
+	text-decoration:none;
+	
+	}
+	
+	.white_txt_16 a:hover{ 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#EEEEED;
+	font-weight:bold;
+	text-align: center;
+	text-decoration:underline;
+	
+	}
+	
+.white_txt_17 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#EEEEED;
+	font-weight:bold;
+	text-align: center;
+	
+	}
+	
+.black_txt_16 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#000000;
+	font-weight:bold;
+	text-align: left;
+	padding-bottom:4px;
+	
+	}
+	
+.black_txt_160 { 
+
+	font-family: Helvetica, sans-serif;
+	font-size:18px;
+	color:#000000;
+	font-weight:bold;
+	text-align: left;
+	padding-top:11px;
+	
+	}
+	
+.black_txt_17 { 
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#FC7E04;
+	font-weight:bold;
+	text-align: left;
+	padding-bottom:4px;
+	
+	}
+	
+/*^^^^^^^^^^^^^input_txt********************/
+
+.finput_14 {
+	border:1px #C7C7C7 solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:160px;
+	height:18px;
+}
+
+.finput_15 {
+	border:1px #C7C7C7 solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:40px;
+	height:18px;
+}
+
+.finput_16 {
+	border:1px #C7C7C7 solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:59px;
+	height:18px;
+}
+
+.finput_comment{
+	border:1px #C7C7C7 solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:228px;
+	height:60px;
+}
+
+/*************************************rabi_Dropdown********************************/
+/* ######### Drop Down ULs CSS ######### */
+
+
+.ddsubmenustyle, .ddsubmenustyle ul{ /*topmost and sub ULs, respectively*/
+font: normal 11px Verdana;
+margin: 0;
+padding: 0;
+position: absolute;
+left: 0;
+top: 0;
+list-style-type: none;
+background: white;
+border-bottom-width: 0;
+visibility: hidden;
+z-index: 100;
+text-align:left;
+}
+
+.ddsubmenustyle li a{
+display: block;
+width: 180px; /*width of menu (not including side paddings)*/
+color: black;
+background-color: #FFFFFF;
+text-decoration: none;
+padding: 5px 10px;
+border-bottom: 1px solid #5B5B5B;
+}
+
+* html .ddsubmenustyle li{ /*IE6 CSS hack*/
+display: inline-block;
+width: 180px; /*width of menu (include side paddings of LI A*/
+}
+
+.ddsubmenustyle li a:hover{
+background: url(../images/call-center.gif) repeat-y;
+color: 000000;
+}
+
+/* ######### Neutral CSS  ######### */
+
+.downarrowpointer{ /*CSS for "down" arrow image added to top menu items*/
+padding-left: 4px;
+border: 0;
+}
+
+.rightarrowpointer{ /*CSS for "right" arrow image added to drop down menu items*/
+position: absolute;
+padding-top: 3px;
+left: 100px;
+border: 0;
+}
+
+.ddiframeshim{
+position: absolute;
+z-index: 500;
+background: transparent;
+border-width: 0;
+width: 0;
+height: 0;
+display: block;
+}
+
+/* ######### Matt Black Strip Main Menu Bar CSS ######### */
+
+.mattblackmenu ul{
+margin: 0;
+padding: 0;
+font: bold 11px Verdana;
+list-style-type: none;
+overflow: hidden;
+width: 100%;
+text-align:center;
+
+}
+
+.mattblackmenu li{
+display: inline;
+margin: 0;
+text-align:center;
+}
+
+.mattblackmenu li a{
+float: left;
+text-decoration: none;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+padding-top:2px;
+padding-bottom:2px;
+padding-right:20px;
+color: white;
+padding-left:20px;
+}
+
+.mattblackmenu li a:visited{
+color: #FFFFFF;
+display:block;
+padding-left:20px;
+}
+
+.mattblackmenu li a:hover{
+background: white; 
+color: #333333;
+display:block;
+padding-left:20px;
+}
+
+.mattblackmenu a:selected{
+color: #FFFFFF;
+display:block;
+padding-left:5px;
+}
+
+/****************************new-add-stylesheet******************************/
+
+.community	{
+	
+	width:175px;
+	height:170px;
+	padding:70px 25px 20px 30px;
+	background:url(../images/website-marketing.jpg) no-repeat;
+	margin-bottom:5px;
+}
+
+.like-facebook {
+	width:58px;
+	margin-top:20px;
+	margin-left:7px;
+	height:22px;
+	float:left;
+	}
+	
+.social_media {
+	width:153px;
+	height:47px;
+	float:left;
+	margin-top:90px;
+	margin-left:7px;
+	}
+	
+.img_left {
+	float:left;
+	padding-right:15px;
+	margin:0px;
+	}
+.img_left3 {
+	float:left;
+	padding-right:5px;
+	margin:0px;
+	}
+
+.blue_txt_01 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#0673B4;
+	font-weight:bold;
+	text-decoration:none;
+	padding-top:5px;
+}
+
+.blue_txt_one {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#0673B4;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	
+}
+
+.blue_txt_one a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#0673B4;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	
+}
+.blue_txt_one a:hover {
+
+	text-decoration:underline;
+	
+	
+}
+
+.blue_txt_02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	color:#3288B6;
+	font-weight:bold;
+	text-decoration:none;
+	padding-bottom:3px;
+}
+
+.red_txt_02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+	padding-bottom:3px;
+}
+
+.blue_txt_03 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:justify;
+}
+
+.blue_txt_three {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FC5800;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:justify;
+}
+
+.blue_txt_three a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FC5800;
+	text-decoration:none;
+}
+
+.blue_txt_three a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FC5800;
+	text-decoration:underline;
+}
+
+.blue_txt_03 a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#404040;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:justify;
+}
+
+.blue_txt_03 a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FC5800;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:justify;
+}
+
+.blue_txt_04 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#4596E8;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	padding:0px;
+	margin:0px;
+}
+
+.blue_txt_05 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#2E2E2E;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+}
+
+.blue_txt_06 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#908F8F;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:justify;
+}
+
+.blue_txt_07 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#2a91cc;
+	font-weight:bold;
+	text-decoration:none;
+	padding:3px;
+}
+
+.blue_txt_0700 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#2a91cc;
+	font-weight:bold;
+	text-decoration:none;
+	
+	
+}
+
+.white_txt_bold {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration:none;
+	padding:3px;
+}
+
+.white_txt_big {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:5px;
+	text-transform:uppercase;
+}
+
+.black_txt_small {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:5px;
+}
+
+.black_txt_center {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:center;
+	padding-left:5px;
+}
+
+.txt2304{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	padding-left:7px;
+
+}
+
+.blue_txt_08 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2E2E2E;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:right;
+}
+
+.blue_txt_eight {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2E2E2E;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:right;
+}
+
+.black_txt_09 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.black_txt_090 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.black_txt_nine {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-align:left;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+h3 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.black_txt_09 a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.black_txt_09 a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.blue_dark_10 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#ffffff;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	padding:2px;
+}
+
+.blue_dark_11 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#ffffff;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	padding-top:2px;
+	padding-bottom:3px;
+	padding-left:3px;
+}
+
+.blue_txt_12 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+	padding-bottom:4px;
+}
+
+.blue_txt_12 a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+
+.blue_txt_12 a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+
+
+/******************link_clause************************/
+
+ul.arrow_txt_two li{
+	padding:0px;
+	margin:0px;
+	}	
+ul.arrow_txt_two li{
+	background: url(../images/call-centers.gif) no-repeat 0px 0px;
+	background-position:left;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin-left:0px;
+	list-style:none;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:left;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:12px;
+}
+
+.bullet_txt_02 {
+	background: url(../images/call-centers.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:12px;
+}
+
+.bullet_margin {
+	background: url(../images/call-centers.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:12px;
+}
+
+	
+.bullet_txt_two {
+	background: url(../images/call-centers.gif) no-repeat;
+	background-position:left-bottom;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:12px;
+}
+
+.bullet_txt_02 a{
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	text-decoration:none;
+	}
+	
+.bullet_txt_02 a:hover{
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	text-decoration:underline;
+	}
+
+.bullet_txt_02 {
+	background: url(../images/call-centers.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:12px;
+}
+
+.bullet_txt_03 {
+	background: url(../images/internet-marketing.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#FC5800;
+	font-weight:bold;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-left:15px;
+}
+
+.bullet_black_txt {
+	background: url(../images/internet-marketing.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#000000;
+	font-weight:bold;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-left:15px;
+}
+
+.bullet_txt_04 {
+	background: url(../images/arrow_85.html) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#4e5052;
+	font-weight:normal;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:12px;
+}
+
+.bullet_txt_05 {
+	background: url(../images/internet-marketing.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	font-weight:normal;
+	text-align:justify;
+	vertical-align:top;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-left:15px;
+}
+
+.bullet_orange_06 {
+	background: url(../images/internet-marketing.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#4596E8;
+	font-weight:bold;
+	text-align:justify;
+	vertical-align:top;
+	padding-bottom:5px;
+	padding-top:1px;
+	padding-left:15px;
+}
+
+.bullet_orange_06 a{
+	
+	font-size:11px;
+	color:#4596E8;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+
+.bullet_orange_06 a:hover{
+	
+	font-size:11px;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+
+ul.bullet_txt_06 li {
+	background: url(../images/arrow_45.gif) no-repeat 0px 0px;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	list-style:none;
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:4px;
+	padding-top:0px;
+	padding-left:10px;
+}
+
+.bullet_txt_06 a{
+
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-decoration:none;
+	
+}
+
+.bullet_txt_06 a:hover{
+
+	font-size:12px;
+	color:#2F2E2E;
+	font-weight:normal;
+	text-decoration:none;
+	
+}
+
+
+/*************************input_text****************************/
+
+.finput_01{
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:200px;
+	height:18px;
+}
+
+.finput_02 {
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:225px;
+	height:22px;
+	
+}
+
+.finput_03{
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:200px;
+	height:60px;
+}
+
+.finput_04 {
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:110px;
+	height:18px;
+	
+}
+
+.finput_05 {
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:100px;
+	height:18px;	
+}
+
+.finput_06 {
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:120px;
+	height:18px;
+}
+
+.finput_07 {
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:228px;
+	height:22px;
+	
+}
+
+.finput_08 {
+	border:1px #A2A19F solid;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	width:112px;
+	height:18px;	
+}
+
+.bullet_txt_09  {
+	background: url(../images/internet-marketing.gif) no-repeat;
+	background-position:left-bottom;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	
+	font-size:11px;
+	color:#000000;
+	font-weight:bold;
+	text-align:justify;
+	vertical-align:top;
+	padding-bottom:5px;
+	padding-top:0px;
+	padding-left:18px;
+}
+
+.lower-alpha {list-style:inherit;}
+
+#marqueecontainer{
+position: relative;
+width: 175px; /*marquee width */
+height: 200px; /*marquee height */
+background-color: none;
+overflow: hidden;
+padding: 0px;
+margin:0px;
+}
+
+#marqueecontainerpci{
+position: relative;
+width: 175px; /*marquee width */
+height: 185px; /*marquee height */
+background-color: none;
+overflow: hidden;
+padding: 0px;
+margin:0px;
+}
+
+.pcibox	{
+	background:url(../images/bg_pci.png) no-repeat;
+	width:175px;
+	height:155px;
+	padding:70px 25px 20px 30px;
+	margin-bottom:5px;
+}
+.pcibox p	{
+	font-size:11px;
+}
+/*Slideshow CSS*/
+
+/*** set the width and height to match your images **/
+
+#slideshow {position:relative; height:200px;}
+
+#slideshow IMG { position:absolute; top:0; left:0; z-index:8; opacity:0.0;}
+
+#slideshow IMG.active { z-index:10; opacity:1.0; }
+
+#slideshow IMG.last-active { z-index:9; }
+
+#slideshow2 {position:relative; height:200px;}
+
+#slideshow2 IMG { position:absolute; top:0; left:0; z-index:8; opacity:0.0;}
+
+#slideshow2 IMG.active { z-index:10; opacity:1.0; }
+
+#slideshow2 IMG.last-active { z-index:9; }
+
+
+/*****Accordion Styles*****/
+
+
+.accordian { width: 650px;}
+
+.accordian li { list-style-type: none; padding: 10px 5px ; }
+
+.dimension { height: auto;}
+
+.even, .odd { font-weight: bold; padding:0 ; }
+
+.even { border: 1px solid #FB8916; background-color: #FCB56E; margin-bottom:10px; padding-top:0px; color: #000000; }
+
+.odd {  background: #FB8916; color: white; margin-bottom:10px;padding-top:0px;}
+
+/*added*/
+.toptxtright { height:0px; text-align:right; padding-right:6px; vertical-align:top;}
+.toptxtorange { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#FC7E04;}
+.toptxtgray { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#333;}
+
+h1	{
+	padding:0px;
+	margin:0px;
+	line-height:0px;
+	font-size:0px;
+}
+h1 a {
+	background:url(../images/business-process-outsourcing.gif) no-repeat 0px 0px;
+	width:155px;
+	height:92px;
+	text-indent:-9999px;
+	padding:0px;
+	margin:0px;
+	font-size:0px;
+	display:block;
+}
+
+	
+.recruitment {
+	background: url(../images/call-center-careers.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.operational-transparency {
+	background: url(../images/call-center-operations.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.quality-work {
+	background: url(../images/call-center-company.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.traning-process {
+	background: url(../images/call-center-training.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.cold-calling {
+
+	background: url(../images/cold-calling-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+	
+.faq {
+
+	background: url(../images/bpo-glossary.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+	
+.privacy-policy {
+
+	background: url(../images/lead-generation.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.thank_you {
+
+	background: url(../images/web-design.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+	
+.claims-processing-services {
+	background: url(../images/claim-processing-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+
+.web-development-services {
+	background: url(../images/web-development-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+
+.internet-marketing-services {
+	background: url(../images/seo-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+	
+	
+.market-intelligence-services {
+	background: url(../images/market-inteligency.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+	
+.business-process-outsourching {
+	background: url(../images/customer-care.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.done {
+	background: url(../images/web-development.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+	
+.transcription-service {
+
+	background: url(../images/transcription-service.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.database-service {
+
+	background: url(../images/database-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.direct-mail {
+
+	background: url(../images/contact-center-call-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.corporate-overview {
+	background: url(../images/bpo-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.our-approach {
+	background: url(../images/telemarketing-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.banner5 {
+	background: url(../images/outbound-call-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.contact {
+	background: url(../images/chat-support-call-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.banner7 {
+	background: url(../images/case_study.html) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.case-studies {
+	background: url(../images/debt-collection.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.career {
+	background: url(../images/career-in-bpo.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.call-center {
+	background: url(../images/call-center-outsourcing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.banner11 {
+	background: url(../images/customer-testimonials.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-research {
+	background: url(../images/banner-research.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.finance {
+	background: url(../images/collections.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-helpdesk {
+	background: url(../images/help-desk-support.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-technology {
+	background: url(../images/chat-support.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-telecom {
+	background: url(../images/business-process-outsourcing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-travel {
+	background: url(../images/travel-and-lifestyle.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.call-center-implementation {
+	background: url(../images/bpo-implementation.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.process-flow {
+	background: url(../images/transition-managemment.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+.banner-security {
+	background: url(../images/banner-security.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-transition {
+	background: url(../images/banner-transition.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.banner-aboutus {
+	background: url(../images/call-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.appointment-setting-services {
+	background: url(../images/appointment-setting-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.market-research-survey {
+	background: url(../images/market-surveys.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.cross-selling {
+	background: url(../images/market-research.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.directors {
+	background: url(../images/email-support.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.key-differentiators {
+	background: url(../images/back-office.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.market-research{
+	background: url(../images/market_research.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.banner_transition {
+	background: url(../images/program-management.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.product-service-promotion {
+	background: url(../images/appointment-setting.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.security-management {
+	background: url(../images/security-management-system.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.banner_telemarketing {
+	background: url(../images/outsource-telemarketing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.medical-answering-services {
+
+	background: url(../images/physician-answering-service.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.virtual-reception-services {
+
+	background: url(../images/chat-support-process.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+
+.answrering-service {
+	background: url(../images/answering-service.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.billing-info {
+	background: url(../images/order-processing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.customer-service {
+	background: url(../images/inbound-customer-service.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.email-response {
+	background: url(../images/email-support-call-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.email-support {
+	background: url(../images/email-and-chat-support.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+.enquiry-handling {
+	background: url(../images/contact-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.interactive_voice {
+	background: url(../images/answering-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.order-taking {
+	background: url(../images/order-taking-service.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.sales_qualification {
+	background: url(../images/qualified-lead-generation.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.voice_broadcast {
+	background: url(../images/voice-broadcasting.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.web_marketing {
+	background: url(../images/web-marketing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.bpo {
+	background: url(../images/bpo.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.glossary {
+	background: url(../images/call-center-glossary.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.lead-generation {
+	background: url(../images/sales-lead-generation.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.b2b-lead-nurturing {
+	background: url(../images/b2b-lead-generation.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+
+.location {
+	background: url(../images/call-center-in-canada.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.autocraft {
+	background: url(../images/call-centre.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.apply-online {
+	background: url(../images/bpo-job.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.sitemap {
+	background: url(../images/customer_surveys.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.download {
+	background: url(../images/corporate_brochure.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.article2 {
+	background: url(../images/call-center-articles.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.article3 {
+	background: url(../images/articles2.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+.map {
+	width:233px;
+	height:100px;
+	margin-right:20px;
+	background: url(../images/call-center-technical-support.jpg) no-repeat;
+	}
+	
+.about-us {
+
+	width:190px;
+	height:116px;
+	background: url(../images/call_center.jpg) no-repeat;
+	float:left;
+	margin:0 10px 0 0;
+	padding-bottom:0px;
+	
+	}
+	
+.computer-technical-support {
+
+	background: url(../images/online-computer-support.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+
+.customer-acquisition-services {
+
+	background: url(../images/customer-acquisition.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+
+.email-marketing-services {
+
+	background: url(../images/email-marketing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+
+.reputation_management_service{
+
+	background: url(../images/reputation-management.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+
+.social-media-marketing{
+
+	background: url(../images/social-media-marketing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+.search-engine-optimization{
+
+	background: url(../images/search-engine-optimatimision.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+
+.pay-per-click{
+
+	background: url(../images/pay-per-click-marketing.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}
+
+.customer-satisfaction-surveys {
+
+	background: url(../images/customer-surveys.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+}	
+.clear {
+
+	clear:both;
+	padding:0px;
+	margin:0px;
+	height:1px;
+	}
+	
+.clear_02 {
+
+	clear:both;
+	padding:0px;
+	margin:0px;
+	height:15px;
+	}
+	
+.services {
+
+	width:56px;
+	height:54px;
+	background:url(../images/services-security.html) no-repeat;
+	float:left;
+	
+	}
+
+.security {
+
+	width:55px;
+	height:55px;
+	background:url(../images/lock2.html) no-repeat;
+	float:left;
+	
+	}
+	
+.market {
+
+	width:54px;
+	height:55px;
+	background:url(../images/market-resarech2.html) no-repeat;
+	float:left;
+	
+	}
+	
+.graph_01 {
+
+	width:530px;
+	height:389px;
+	padding:0px 0px 0px 0px;
+	margin:0px;
+	background:url(../images/call_center_process.jpg) no-repeat;
+	
+	}
+	
+.graph_02 {
+
+	width:530px;
+	height:347px;
+	padding:0px 0px 0px 0px;
+	margin:0px;
+	background:url(../images/internet_marketing.jpg) no-repeat;
+	
+	}
+	
+.graph_03 {
+
+	width:580px;
+	height:181px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	background:url(../images/customer_services.jpg) no-repeat;
+}
+
+.graph_04 {
+
+	width:665px;
+	height:256px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	background:url(../images/customer-call-center.jpg) no-repeat;
+
+
+}
+
+.bannerindex {
+
+	background: url(../images/call-center-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+.techIcon	{
+	width:894px;
+	height:147px;
+	background:url(../images/customer-servce-call-center.jpg) no-repeat;
+}
+.techIcon ul {
+	margin:0;
+	padding:0 0 0 25px;
+}
+.techIcon ul li	{
+	float:left;
+	list-style:none;
+	margin:0 0px 0 0px;
+}
+a.techC_Service {
+	width:90px;
+	height:125px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+}
+a.techTeleMarket {
+	width:122px;
+	height:125px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+	margin:0 0 0 45px;
+}
+a.techOrderTaking {
+	width:75px;
+	height:125px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+	margin:0 0 0 40px;
+}
+a.techTechnicalSupport {
+	width:95px;
+	height:125px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+	margin:0 0 0 55px;
+}
+a.techInternetMarketing {
+	width:120px;
+	height:125px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+	margin:0 0 0 35px;
+}
+a.techWebDevelopment {
+	width:152px;
+	height:125px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+	margin:0 0 0 28px;
+}
+
+
+.toll-free {
+	background: url(../images/customer-support.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.request	{
+	width:165px;
+	height:210px;
+	background:url(../images/lead_generation.jpg) no-repeat;
+	padding:85px 30px 25px 35px;
+	font-size:12px;
+	color:#8C8A8A;
+	font-weight:bold;
+	padding-bottom:1px;
+}
+.news	{
+	background:url(../images/call_center_training.jpg) no-repeat;
+	width:175px;
+	height:210px;
+	padding:70px 25px 20px 30px;
+	margin-bottom:5px;
+}
+.news p	{
+	font-size:11px;
+}
+.findus	{
+	background: url(../images/twitter2.jpg) no-repeat 10px 0px;
+	margin:15px 0;
+	height:65px;
+}
+
+.join_facebook {
+
+	width:206px;
+	height:107px;
+	float:left;
+	padding:0px;
+	margin-top:14px;
+	margin-left:15px;
+	
+	}
+
+input.sub	{
+	width:95px;
+	height:42px;
+	border:none;
+	float:left;
+}
+
+/*Created by rabi 08.10.10*/
+
+
+
+
+/***************************/
+
+.testimonial {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#fb6312;
+	background: url(../images/client-testimonials.jpg) no-repeat;
+	padding:15px 0px 8px 40px;
+	line-height:15px;
+	font-size:15px;
+	font-weight:bold;
+	}
+	
+.testimonial2 {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#fb6312;
+	background: url(../images/icon_testimonialxs.jpg) no-repeat;
+	padding:8px 0px 8px 46px;
+	line-height:20px;
+	font-size:16px;
+	font-weight:bold;
+	}
+	
+.testimonial3 {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#fb6312;
+	background: url(../images/testimonials_icon2.jpg) no-repeat;
+	padding:10px 0px 8px 52px;
+	line-height:20px;
+	font-size:16px;
+	font-weight:bold;
+	}
+	
+.orange_testi_12 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FC5800;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/*------------------edit form---------------*/
+
+.thin_blue_02 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	color:#2a91cc;
+	font-weight:normal;
+	text-decoration:none;
+	padding-bottom:3px;
+}
+
+.thin_blue_02 a{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	color:#2a91cc;
+	font-weight:normal;
+	text-decoration:none;
+	padding-bottom:3px;
+}
+
+.thin_blue_02 a:hover{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#2a91cc;
+	text-decoration:underline;
+}
+
+.thin_black_02 {
+	
+	color:#000000;
+	
+}
+
+.get-a-quote{
+	background: url(../images/call-centre-services.jpg) no-repeat;
+	height:305px;
+	width:894px;
+}
+
+/*------------------29.12.2010----------------------*/
+
+a.get_quote{
+background:url(../images/customer_acquisition.jpg) no-repeat 0px 0px;
+display:block;
+height:37px;
+margin-left:13px;
+text-indent:-9999px;
+margin-bottom:4px;
+with:205px;
+}
+a.get_quote:hover {
+background:url(../images/customer_acquisition.jpg) no-repeat 0px -37px;
+display:block;
+height:37px;
+margin-left:13px;
+text-indent:-9999px;
+margin-bottom:4px;
+with:205px;
+}
+/*----------------05.01.2011--------------------------------*/
+
+a.get_video{
+background:url(../images/customer_care_call_center.jpg) no-repeat 0px 0px;
+display:block;
+height:37px;
+margin-left:15px;
+text-indent:-9999px;
+margin-bottom:4px;
+with:203px;
+}
+a.get_video:hover {
+background:url(../images/customer_care_call_center.jpg) no-repeat 0px -37px;
+display:block;
+height:37px;
+margin-left:15px;
+text-indent:-9999px;
+margin-bottom:4px;
+with:203px;
+}
+
+/*-------------------------about-box-start-----------------------*/
+
+.about_box {
+	width:320px;
+	float:left;
+	margin:0px 4px 0px 0px;
+	padding:0px;
+	}
+
+.about_box_02 {
+	width:320px;
+	float:left;
+	margin:0px;
+	padding:0px;
+	}
+.about_box_up {
+	width:320px;
+	height:14px;
+	background:url(../images/chat_support.jpg) no-repeat;
+	padding:0px;
+	margin:0px;
+	float:left;
+	}
+	
+.about_box_down {
+	width:320px;
+	height:14px;
+	background:url(../images/bpo_services.jpg) no-repeat;
+	padding:0px;
+	margin:0px;
+	float:left;
+	}
+	
+.about_box_center{
+	width:286px;
+	background:url(../images/web_development.jpg) repeat-y;
+	padding:0px 17px 0px 17px;
+	margin:0px;
+	float:left;
+	}
+
+
+/*-----------------press release------------*/
+
+.press-release {
+	 background: url(../images/customer-service-call-center.jpg) no-repeat;
+	 height:305px;
+	 width:894px;
+	 margin:0px;
+	 padding:0px;
+	}
+.press_release02 {
+
+height:48px;
+margin-left:13px;
+margin-bottom:14px;
+margin-top:0px;
+with:205px;
+}
+	
+.img-float {
+	 padding:0px 8px 1px 0px;
+	 float:left;
+	}
+
+.techIcon2 {
+      width:894px;
+      height:118px;
+      background:url(../images/telemarketing-company.jpg) no-repeat;
+}	
+/*-----------------press release------------*/
+/*--------------adding new banner-----------------*/
+
+.india-banner {
+
+	background: url(../images/call-centers-in-india.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.usa-banner {
+
+	background: url(../images/usa-banner2.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.call-center-canada {
+
+	background: url(../images/call-center-canada.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}
+	
+.philippines-banner {
+
+	background: url(../images/philippine-call-center.jpg) no-repeat;
+	height:305px;
+	width:894px;
+	margin:0px;
+	padding:0px;
+	}

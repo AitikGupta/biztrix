@@ -1,0 +1,719 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Something Missing</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css' />
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script language="JavaScript" type="text/javascript">
+
+function chkNumeric(strString) {
+		   var reg = /[0-9]/;
+		   if (reg.test(strString) == true) {
+			   return true;
+			 }
+				
+			 else {
+			 return false;
+			 }
+			 }
+			
+			
+			function callbackvalidation() {
+					
+									
+					if(document.contactform1.name1.value=="Name*" || document.contactform1.name1.value=="") {
+						alert("Please, Enter Your  Name");
+						document.contactform1.name1.focus();
+						return false;
+					}
+					
+					if(document.contactform1.email1.value=="Email Address*" || document.contactform1.email1.value=="") {
+						alert("Please, Enter your mail id");
+						document.contactform1.email1.focus();
+						return false;
+					}		
+
+	                  var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+                      var address = document.contactform1.email1.value;
+                      if(reg.test(address) == false) {
+                     alert('Invalid Email Address');
+                      return false;
+                       }
+					 
+					if(document.contactform1.phone1.value=="Phone" || document.contactform1.phone1.value=="") {
+						alert("Please, Enter Your Phone No");
+						document.contactform1.phone1.focus();
+						return false;
+					    }
+						
+						if (chkNumeric(document.contactform1.phone1.value) == false) {
+     	              alert('Please enter your Phone No In Numeric');
+		              document.contactform1.phone1.focus();
+		              return false;
+	                  }
+					  	if(document.contactform1.comments1.value=="Message" || document.contactform1.comments1.value=="") {
+						alert("Please, Enter Your  Message");
+						document.contactform1.comments1.focus();
+						return false;
+					}
+			}		
+					
+			</script>
+<link rel="shortcut icon" href="favicon.ico"/>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9564958-2']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+<body>
+<!--header part ends here-->
+<!--for marketing trial--> 
+
+
+
+<div id="top-part">
+
+	<div class="logo"><a href="/"><img src="images/logo.png" width="138" height="89" alt="Fusion BPO Services" /></a></div>
+
+    <!--nav part starts here-->
+   <div class="frflag"><a href="tel:+18665810038"><img src="images/call.png" alt="Call Us" align="left" /></a></div>
+ 
+
+	<div class="nav">
+
+    	<ul class="dropdown">
+
+            <!--<li><a href="/">Home</a></li>-->
+            <li><a href="corporate-overview.html">Corporate Overview</a>
+            	<p>&nbsp;</p>
+            <ul>
+            	<li><a href="management-team.html">Management Team</a></li>
+				<li><a href="executive-team.html">Executive Team</a></li>
+				<li><a href="methodology.html">Methodology</a></li>
+				<li><a href="press-release.html">Press Release</a></li>
+				<li><a href="client-testimonials.html">Client Testimonials</a></li> 
+				<li><a href="#">CSR Activities</a>
+						<ul>
+                            <li><a href="csr-india.html">India</a></li>
+                            <li><a href="csr-canada.html">Canada</a></li>
+							<li><a href="csr-philippines.html">Philippines</a></li>
+                       </ul>
+				</li>
+
+            </ul>
+
+            </li>
+            <li><a href="services.html">Our Services</a>
+            	<p>&nbsp;</p>
+				<ul>
+                    <li><a href="voice.html">Voice</a></li>
+                    <li><a href="non-voice.html">Non Voice</a></li>
+                    <li><a href="live-chat-support.html">Live Chat Support</a></li>
+                    <li><a href="collection-services.html">Collection Services</a></li>
+					<li><a href="automation-solutions.html">Automation Solutions</a></li>
+
+                </ul>
+
+            </li>                                                    
+
+            
+            <li><a href="#">Industries Served </a>
+
+            	<p>&nbsp;</p>
+
+            	<ul>
+		
+            		<li><a href="financial-services.html">Financial Services</a></li>
+					<li><a href="telecommunication.html">Telecommunication</a></li>
+                    <li><a href="healthcare.html">Healthcare</a></li>
+                    <li><a href="consumer-packaged-goods.html">Consumer Packaged Goods</a></li>
+                    <li><a href="ecommerce.html">Ecommerce</a></li>
+					<li><a href="education.html">Education</a></li>
+					<li><a href="travel-transportation-hospitality.html">Travel, Transportation & Hospitality</a></li>
+
+                </ul>
+
+            </li>
+			          
+			<li><a href="recognitions.html">Recognitions &amp; Affiliations</a></li>
+			
+			
+			<li><a href="https://www.fusionbposervices.com/blog/">Blog</a></li>
+
+            <li class="last"><a href="contact-us.php">Contact Us</a>
+			<p>&nbsp;</p>
+            <ul>
+				<li><a href="get-a-quote.php">Get A Quote</a>
+				<li><a href="location.html">Location</a></li>
+				<li><a href="careers.html">Careers</a></li>
+			</ul>
+			</li>
+			
+
+        </ul>
+
+        <div class="clr"></div>
+
+  	</div>
+  	
+
+  <!--nav part ends here-->
+
+  <div class="clr"></div>
+
+</div>
+
+<!--top part ends here-->
+
+<!--header part ends here-->
+
+<!--main nav part starts here-->
+<div class="red-part">
+    <div class="left">Step to Quality Customer Care.</div>
+  <div class="right"></div>
+    <div class="clr"></div>
+</div>
+<!--main nav part ends here-->
+<!--inner body part starts here-->
+<div id="inner-body">
+	
+    
+    <div class="cont">
+    	<div id="container">
+    	<ul id="sitemap">
+        		<li class="home"><a href="/">Home</a></li>
+                <li class="lv2"><a href="corporate-overview.html">Corporate Overview</a>
+                	<ul>
+            			<li><a href="management-team.html"><strong>» Management Team</strong></a></li>
+                    	<li><a href="location.html"><strong>» Location</strong></a></li>
+                	</ul>
+                </li>
+                <li class="lv2"><a href="services.html">Services</a></li>
+                <li class="lv2"><a href="methodology.html">Methodology</a></li>
+                <li class="lv2"><a href="sitemap.html">Site Map</a></li>
+                <li class="lv2"><a href="contact-us.php">Contact us</a></li>
+				<li class="lv2"><a href="#">Business Process Outsourcing</a>
+                	<ul>
+                        <li class="none"><a href="voice.html"><strong>» Voice</strong></a>
+                        	
+                        </li>
+                        <li class="none"><a href="non-voice.html"><strong>» Non Voice</strong></a>
+
+                        </li>
+        			</ul>
+                </li>
+                                                             
+                <li class="lv2"><a href="privacy-policy.html">Privacy Policy</a></li>
+                <li class="lv2"><a href="terms-use.html">Terms of Use</a></li>
+                <li class="lv2"><a href="faq.html">FAQ's</a></li>
+                
+		  </ul>
+	</div>
+        
+    </div>
+    
+    
+</div>
+<!--inner body part ends here-->
+
+<!--footer part ends here-->
+<!--footer part starts here-->
+<div id="body">
+	<!--News part starts here-->
+	<div class="news">
+    	<h2>Latest Blog Posting</h2>
+		
+        <div class="news01">
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js'></script>
+		<script type="text/javascript">
+var MYBLOG_LIMIT = 4;
+var MYWRAPPER_CLASS = 'news01';
+ 
+var WP={open:function(b){var a={posts:function(){var d=MYBLOG_LIMIT;var e=0;var c={all:function(g){var f=b+"/api/get_recent_posts/";f+="?count="+d+"&page="+e+"&callback=?";jQuery.getJSON(f,function(l){var k=l.posts;for(var j=0;j<k.length;j++){var h=k[j];h.createComment=function(i,m){i.postId=h.id;a.comments().create(i,m)}}g(k)})},findBySlug:function(f,h){var g=b+"/api/get_post/";g+="?slug="+f+"&callback=?";jQuery.getJSON(g,function(i){h(i.post)})},limit:function(f){d=f;return c},page:function(f){e=f;return c}};return c},pages:function(){var c={findBySlug:function(d,f){var e=b+"/api/get_page/";e+="?slug="+d+"&callback=?";jQuery.getJSON(e,function(g){f(g.page)})}};return c},categories:function(){var c={all:function(e){var d=b+"/api/get_category_index/";d+="?callback=?";jQuery.getJSON(d,function(f){e(f.categories)})}};return c},tags:function(){var c={all:function(e){var d=b+"/api/get_tag_index/";d+="?callback=?";jQuery.getJSON(d,function(f){e(f.tags)})}};return c},comments:function(){var c={create:function(f,e){var d=b+"/api/submit_comment/";d+="?post_id="+f.postId+"&name="+f.name+"&email="+f.email+"&content="+f.content+"&callback=?";jQuery.getJSON(d,function(g){e(g)})}};return c}};return a}};
+ 
+var blog = WP.open('https://www.fusionbposervices.com/blog/');
+blog.posts().all(function(posts){
+  for(var i = 0; i < posts.length; i++){
+    jQuery('.'+MYWRAPPER_CLASS).append(function(){
+      return (posts[i].thumbnail) ? '<div><a class="lastpost_title" href="'+posts[i].url+'"><h4>'+posts[i].title+'</h4></a><a href="'+posts[i].url+'"><span>'+posts[i].date+'</span></a></div>' : '<a href="'+posts[i].url+'"><h4>'+posts[i].title+'</h4></a><a href="'+posts[i].url+'"><span>'+posts[i].date+'</span></a>';
+ 
+    });
+  }
+});
+
+</script>
+<script language="JavaScript" type="text/javascript">
+
+/*$(document).ready(function() 
+
+{
+
+	$('#contactform1').submit(function()
+
+	{
+
+		var challenge = $('#recaptcha_challenge_field').val();
+
+		var respond = $('#recaptcha_response_field').val();
+
+		var name1 = $('#name1').val();
+
+		var phone1 = $('#phone1').val();
+
+		var email1 = $('#email1').val();
+
+		var company1 = $('#company1').val();
+
+		var comments1 = $('#comments1').val();
+
+		var lead_from = 'rcb';
+
+	    $.post("callback.php", { challenge: challenge, respond: respond, name1: name1, phone1: phone1, email1: email1, company1: company1, comments1: comments1, lead_from: lead_from }, 
+
+		function(response)
+
+		{
+
+			setTimeout("finishAjax('"+escape(response)+"')", 400);			
+
+		});
+
+	return false;
+
+	});
+
+});
+
+function finishAjax(response) {
+
+	reCaptcha(response);
+
+}
+*/
+
+
+/*function reCaptcha (resp)
+
+{
+
+	
+
+	if(resp == 'false')
+
+	{
+
+		alert('Image verification code mismatch..\nPlease try again.');
+
+		//document.getElementById("recaptcha_response_field").value = '';
+
+		Recaptcha.reload();
+
+		return false;
+
+	}
+
+	else if(resp == 'error')
+
+	{
+
+		alert("Some unknown error occured.\nPlease try again.");
+
+		Recaptcha.reload();
+
+		return false;
+
+	}
+
+	else if(resp == 'true')
+
+	{
+
+		alert("Thankyou your mail has been sent successfully.");
+
+		top.location.replace("index.php");
+
+	}
+
+	else if(resp == 'false1')
+
+	{
+
+		alert("Mail sending fail.\nPlease try again.");
+
+		//header('location:thankyou.php');
+
+		return false;
+
+	}
+
+}*/
+
+function chkNumeric(strString) 
+
+{
+
+	var reg = /[0-9]/;
+
+	if (reg.test(strString) == true) 
+
+	{
+
+		return true;
+
+	}
+
+	else 
+
+	{
+
+		return false;
+
+	}
+
+}
+
+
+
+function callbackvalidation() 
+
+{
+	
+		//	var company1  = $('#company1').val();
+		//	var name1 = $('#name1').val();
+		//	var phone1 = $('#phone1').val();
+		//	var email1 = $('#email1').val();
+		//	var comments1 = $('#comments1').val();
+		//	var url2 = $('#url2').val();
+		//	var x=document.contactform1.name1.value;
+		//alert(x);
+		if(document.contactform1.name1.value=="Name" || document.contactform1.name1.value=="") 
+
+		{
+
+			alert("Please, Enter Your  Name");
+
+			document.contactform1.name1.focus();
+
+			return false;
+
+		}
+
+		if(document.contactform1.phone1.value=="Phone" || document.contactform1.phone1.value=="") 
+
+		{
+
+			alert("Please, Enter Your Phone");
+
+			document.contactform1.phone1.focus();
+
+			return false;
+
+		}	
+
+		if (chkNumeric(document.contactform1.phone1.value) == false) 
+
+		{
+
+			alert('Please enter your Phone No In Numeric');
+
+			document.contactform1.phone1.focus();
+
+			return false;
+
+		}
+
+		if(document.contactform1.email1.value=="Email" || document.contactform1.email1.value=="") 
+
+		{
+
+			alert("Please, Enter your Email");
+
+			document.contactform1.email1.focus();
+
+			return false;
+
+		}
+
+		var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+		var address = document.contactform1.email1.value;
+
+		if(reg.test(address) == false) 
+
+		{
+
+			alert('Invalid Email Address');
+
+			return false;
+
+		}
+		
+		if(document.contactform1.company1.value=="Company" || document.contactform1.company1.value=="") 
+
+		{
+
+			alert("Please, Enter Your Company");
+
+			document.contactform1.company1.focus();
+
+			return false;
+
+		}
+
+		if(document.contactform1.comments1.value=="Message" || document.contactform1.comments1.value=="") 
+
+		{
+
+			alert("Please, Enter Your  Message");
+
+			document.contactform1.comments1.focus();
+
+			return false;
+
+		}
+
+		
+
+		/*if(document.getElementById("recaptcha_response_field").value == "")
+
+		{
+
+			alert("Please enter image verification code.");
+
+			document.getElementById("recaptcha_response_field").focus();
+
+			return false;
+
+		}*/
+		
+		if(company1!="" && name1!="" && phone1!="" && email1!="" && comments1!="" && url22!="")		
+			{
+			//	alert("22");
+				$.ajax({
+						url : "callback2.php",
+						type: "POST",
+						data : {company1:company1,name1:name1,phone1:phone1,email1:email1,comments1:comments1,url2:url2},		
+						success: function(data)
+						{	
+						alert("33");						
+							alert("Thank You...We have received your details and will get back to you soon. ");
+							window.location.reload();
+						},
+						/*complete:function(){
+						$('#contactform1').each(function(){
+							alert("Thank You...We have received your details and will get back to you soon. ");
+							this.reset();   //Here form fields will be cleared.
+							window.location.reload();
+						});
+						}*/
+						
+					});	
+			}
+
+
+}					
+
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-9564958-2']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+</script>
+
+<style type="text/css">
+
+	#recaptcha_image {
+
+		float:left; 
+
+		width:150px; 
+
+		border:#66CCFF thin solid; 
+
+		width:200px !important; 
+
+		height:47px !important;
+
+	}
+
+	#recaptcha_image img{
+
+		height:46px;
+
+		width:200px;
+
+		margin: 0px;
+
+		padding: 0px;
+
+	}
+
+	#recaptcha_container {
+
+		margin: 0px;
+
+		padding: 0px;
+
+		width: 230px;
+
+	}
+
+	.callback input {
+
+		height: 35px !important;
+
+	}
+
+	.callback textarea {
+
+		height: 90px !important;
+
+	}
+
+</style>
+        
+  
+      </div>
+    </div>
+    <!--News part ends here-->
+    <!--Contact Us starts here-->
+	<div class="community">
+    	<h2>Corporate Headquarters</h2>
+      		<p class="top">405 E 12450 South, Suite M<br />
+			  Draper, UT 84020,<br />
+			  USA
+							</p>
+							
+			<p class="top">Y9, EP Block, Sector V,<br />
+			  Salt Lake City, Bidhan Nagar<br />
+			  Kolkata - 700091<br />
+			  INDIA
+							</p>
+            <!--<p class="map"><img src="images/footer-map.png" alt=" " /></p>-->
+			<div class="social">
+    <ul id="social-top" class="invent-social-list">
+        <li><a class="invent-social-list-el invent-social-linkedin" href="http://www.linkedin.com/company/317299" title="Linkedin" target="_blank" rel="nofollow"><span class="invent-social-icon"></span></a></li>
+        <li><a class="invent-social-list-el invent-social-twitter" href="http://twitter.com/Fusionbpo" title="Twitter" target="_blank" rel="nofollow"><span class="invent-social-icon"></span></a></li>
+        <li><a class="invent-social-list-el invent-social-facebook" href="https://www.facebook.com/FusionBPO" title="Facebook" target="_blank" rel="nofollow"><span class="invent-social-icon"></span></a></li>
+        <li><a class="invent-social-list-el invent-social-rss" href="https://www.fusionbposervices.com/blog/feed" title="RSS Feed" target="_blank" rel="nofollow"><span class="invent-social-icon"></span></a></li>
+		
+    </ul>
+    </div>
+
+  </div>
+    <!--Contact Us  ends here-->
+<script type="text/javascript">
+	var RecaptchaOptions = {
+	theme : 'custom',
+	custom_theme_widget: 'recaptcha_widget'
+	};
+</script>
+
+    <!--Request Callback starts here-->
+	<div class="callback">
+
+    	<h2>Request Callback</h2>
+		  <form method="post" name="contactform1" id="contactform1" action="callback2.php" >
+            	<ul>
+                	<li><input name="name1" id="name1" type="text" value="Name" onfocus="if(this.value=='Name')this.value='';" onblur="if(this.value=='')this.value='Name';"/></li>
+                    <li><input name="phone1" id="phone1" type="text" value="Phone" onfocus="if(this.value=='Phone')this.value='';" onblur="if(this.value=='')this.value='Phone';"/></li>
+                    <li><input name="email1" id="email1" type="text" value="Email" onfocus="if(this.value=='Email')this.value='';" onblur="if(this.value=='')this.value='Email';"/></li>
+					<li><input name="company1" id="company1" type="text" value="Company" onfocus="if(this.value=='Company')this.value='';" onblur="if(this.value=='')this.value='Company';"/></li>
+                    <li><textarea name="comments1" id="comments1" cols="" rows="" onfocus="if(this.value=='Message')this.value='';" onblur="if(this.value=='')this.value='Message';" style="overflow:auto;">Message</textarea></li>
+					<!--<li>
+						<div id="recaptcha_widget" style="display:none">
+							<div>
+								<div id="recaptcha_image"></div>
+								<div style="float:left">
+									<div><a href="javascript:Recaptcha.reload()"><img src="images/reload.jpg" width="15" height="15" /></a></div>
+									<div class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><img src="images/audio.jpg" width="15" height="15" /></a></div>
+									<div class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><img src="images/stamp.jpg" width="15" height="15" /></a></div>						
+									<div><a href="javascript:Recaptcha.showhelp()"><img src="images/help.jpg" width="15" height="15"  /></a></div>
+								</div>
+							</div>
+							<div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
+								<input type="text" id="recaptcha_response_field" name="recaptcha_response_field" />								
+						</div>
+			
+						 <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6Le2DdcSAAAAAGbYNlHEgbuPDUihq_Ldj6P58Y8B">
+						 </script>
+						 <noscript>
+							<iframe src="http://www.google.com/recaptcha/api/noscript?k=6Le2DdcSAAAAAGbYNlHEgbuPDUihq_Ldj6P58Y8B" height="300" width="500" frameborder="0"></iframe><br>
+							<textarea name="recaptcha_challenge_field" id="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+							<input type="hidden" name="recaptcha_response_field" id="recaptcha_response_field" value="manual_challenge">
+						</noscript>
+					</li>-->
+					                    <li><a href="#">
+                    <input type="hidden" name="url2" id="url2" value="www.fusionbposervices.com/www.fusionbposervices.com/financial-services.html"  />
+                    
+                      <input name="submit" id="submit" type="submit" onclick="return callbackvalidation()"  value="" class="btn"  style="position:relative;"/></a>
+                    </li>
+            	</ul>
+				</form>
+    </div>
+    <!--Request Callback ends here-->
+    <div class="clr"></div>
+</div>
+<!--body part ends here-->
+
+<!--footer part starts here-->
+<div id="footer">
+	<!--<div class="red"></div>-->
+	<div class="nav">
+    	<ul>
+        	<li><a href="call-center.html">Call Center</a></li>
+            <li><a href="https://www.fusionbposervices.com/blog/" target="_blank">Blog</a></li>
+            <li><a href="sitemap.html">Site Map</a></li>                                                
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="terms-use.html">Terms of Use</a></li>
+            <li class="last"><a href="contact-us.php">Contact Us</a></li>
+        </ul>
+        <div class="clr"></div>
+  	</div>
+    <div class="copy">&copy; 2019 Fusion BPO Services. All Rights Reserved.</div>
+    <div class="clr"></div>
+    
+   
+</div>
+<!--footer part ends here-->
+<!-- SalesIQ Chat -->
+<script type="text/javascript">
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
+{widgetcode:"4067085cd7df8cd3e8dff7515fc2d1663ea933cffdb1e6be88d5d4c43cbffc22a81d6b547a35c109951d24f6be71d2d0", values:{},ready:function(){}};
+var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
+s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+</script><!--footer part ends here-->
+</body>
+</html>

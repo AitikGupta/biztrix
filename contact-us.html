@@ -1,0 +1,570 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from www.fusionbposervices.com/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 14 Jun 2019 16:45:43 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Contact Us - Biztrix Business Solution</title>
+<meta http-equiv="Content-Language" content="en"/>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css' />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js'></script>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<link rel="shortcut icon" href="favicon.ico"/>
+
+<!--Google Captcha API Link-->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script language="JavaScript" type="text/javascript">
+/*$(document).ready(function()
+{
+	$('#contactform').submit(function()
+	{
+		//alert('hii');
+		var challenge = $('#recaptcha_challenge_field').val();
+		var respond = $('#recaptcha_response_field').val();
+		var name = $('#name').val();
+		var phone = $('#phone').val();
+		var email = $('#email').val();
+		var company = $('#company').val();
+		var comments = $('#comments').val();
+		var fax = $('#fax').val();
+		var website = $('#website').val();
+	    $.post("contact.php", { challenge: challenge, respond: respond, name: name, phone: phone, email: email, company: company, comments: comments, fax: fax, website: website },
+		function(response)
+		{
+			setTimeout("finishAjax('"+escape(response)+"')", 400);
+		});
+	return false;
+	});
+});
+function finishAjax(response) {
+	reCaptcha(response);
+}
+
+function reCaptcha (resp)
+{
+	//alert(resp);
+	if(resp == 'false')
+	{
+		alert('Image verification code mismatch..\nPlease try again.');
+		//document.getElementById("recaptcha_response_field").value = '';
+		Recaptcha.reload();
+		return false;
+	}
+	else if(resp == 'error')
+	{
+		alert("Some unknown error occured.\nPlease try again.");
+		Recaptcha.reload();
+		return false;
+	}
+	else if(resp == 'true')
+	{
+		//alert('success');
+		top.location.replace("thankyou.php");
+		//header('location:thankyou.php');
+	}
+	else if(resp == 'false1')
+	{
+		alert("Mail sending fail.\nPlease try again.");
+		//header('location:thankyou.php');
+		return false;
+	}
+}
+*/
+function chkNumeric(strString)
+{
+	var reg = /[0-9]/;
+	if (reg.test(strString) == true)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+function validation()
+{
+	if(document.contactform.name.value=="")
+	{
+		alert("Please, Enter Your  Name");
+		document.contactform.name.focus();
+		return false;
+	}
+
+	if(document.contactform.email.value=="")
+	{
+		alert("Please, Enter your mail id");
+		document.contactform.email.focus();
+		return false;
+	}
+
+	var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+	var address = document.contactform.email.value;
+	if(reg.test(address) == false)
+	{
+		alert('Invalid Email Address');
+		return false;
+	}
+
+	if(document.contactform.phone.value=="")
+	{
+		alert("Please, Enter Your Phone No");
+		document.contactform.phone.focus();
+		return false;
+	}
+
+	if (chkNumeric(document.contactform.phone.value) == false)
+	{
+		alert('Please enter your Phone No In Numeric');
+		document.contactform.phone.focus();
+		return false;
+	}
+
+
+
+	if(document.contactform.comments.value=="")
+	{
+		alert("Please, Enter Your  Comments");
+		document.contactform.comments.focus();
+		return false;
+	}
+
+	var cp = document.getElementById("g-recaptcha-response").value;
+	if(cp== '')
+	{
+		alert("please choose captcha.");
+		return false;
+	}
+
+
+	/*
+	if(document.getElementById("recaptcha_response_field").value == "")
+	{
+		alert("Please, Enter Your Image verification code.");
+		document.contactform.comments.focus();
+		return false;
+	}*/
+
+}
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9564958-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<style type="text/css">
+	#recaptcha_image {
+		float:left;
+		border:#B7B7B7 thin solid;
+		width:300px !important;
+		height:56px !important;
+	}
+	#recaptcha_image img{
+		height:56px;
+		width:300px;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+	#recaptcha_container {
+		margin: 0px;
+		padding: 0px;
+		width: 230px;
+	}
+	#recaptcha_widget div {
+		margin:0px 0px;
+	}
+	#address_container p {
+		display: inline-block !important;
+		width: 45% !important;
+		height: 150px;
+		color: #212121 !important;
+		font: normal 14px/20px Arial,Helvetica,sans-serif !important;
+		font-size: 14px !important;
+	}
+	#address_container {
+		border: 1px solid #dddddd;
+		border-radius: 8px;
+		padding: 0px 0px 0px 5px;
+		margin-top: 15px;
+		height: 180px;
+	}
+	#address_container h3 {
+		padding-top: 10px;
+	}
+	.heading1 img {
+		height: 36px;
+		float: left;
+		margin-top: -3px;
+		margin-right: 10px;
+	}
+	.buttons {
+		display: inline-block;
+		text-align: center;
+		width: 28%;
+		padding: 10px 0px;
+		border: 1px solid #dddddd;
+		border-radius: 8px;
+		margin-right: 30px;
+	}
+	.buttons img {
+		margin: 10px auto;
+		display: block;
+		height: 54px;
+	}
+	.buttons a
+	{
+		color: #143c67;
+		text-decoration: none;
+	}
+	.form_container {
+		width: 800px;
+		margin: 0px !important;
+	}
+	.form_container div {
+		display: inline-block !important;
+		clear: none !important;
+	}
+	#comment_container {
+		width: 600px;
+	}
+	#comments
+	{
+		width: 100%;
+	}
+	.buttons h3 {
+		font-family: 'Open Sans Condensed', Arial,Helvetica,sans-serif;
+		font-weight: normal;
+		font-size: 24px;
+	}
+	.buttons p, .buttons a {
+		font-size: 16px !important;
+		font-family: 'Open Sans Condensed', Arial,Helvetica,sans-serif;
+		font-weight: bold;
+	}
+	#address_container p:nth-of-type(1) {
+		margin-left: 16px;
+	}
+	label
+	{
+		font-weight:bold;
+	}
+</style>
+
+</head>
+<body>
+<!--header part ends here-->
+<!--for marketing trial-->
+
+
+
+<div id="top-part">
+
+	<div class="logo"><a href="index.html"><img src="images/logo.png" width="138" height="89" alt="Biztrix Business Solution" /></a></div>
+
+    <!--nav part starts here-->
+   <div class="frflag"><a href="tel:+18665810038"><img src="images/call.png" alt="Call Us" align="left" /></a></div>
+
+
+	<div class="nav">
+
+    	<ul class="dropdown">
+
+            <!--<li><a href="/">Home</a></li>-->
+            <li><a href="corporate-overview.html">Corporate Overview</a>
+            	<p>&nbsp;</p>
+            <ul>
+            	<li><a href="management-team.html">Management Team</a></li>
+				<li><a href="executive-team.html">Executive Team</a></li>
+				<li><a href="methodology.html">Methodology</a></li>
+				<li><a href="press-release.html">Press Release</a></li>
+				<li><a href="client-testimonials.html">Client Testimonials</a></li>
+				<li><a href="#">CSR Activities</a>
+						<ul>
+                            <li><a href="csr-india.html">India</a></li>
+                            <li><a href="csr-canada.html">Canada</a></li>
+							<li><a href="csr-philippines.html">Philippines</a></li>
+                       </ul>
+				</li>
+
+            </ul>
+
+            </li>
+            <li><a href="services.html">Our Services</a>
+            	<p>&nbsp;</p>
+				<ul>
+                    <li><a href="voice.html">Voice</a></li>
+                    <li><a href="non-voice.html">Non Voice</a></li>
+                    <li><a href="live-chat-support.html">Live Chat Support</a></li>
+                    <li><a href="collection-services.html">Collection Services</a></li>
+					<li><a href="automation-solutions.html">Automation Solutions</a></li>
+
+                </ul>
+
+            </li>
+
+
+            <li><a href="#">Industries Served </a>
+
+            	<p>&nbsp;</p>
+
+            	<ul>
+
+            		<li><a href="financial-services.html">Financial Services</a></li>
+					<li><a href="telecommunication.html">Telecommunication</a></li>
+                    <li><a href="healthcare.html">Healthcare</a></li>
+                    <li><a href="consumer-packaged-goods.html">Consumer Packaged Goods</a></li>
+                    <li><a href="ecommerce.html">Ecommerce</a></li>
+					<li><a href="education.html">Education</a></li>
+					<li><a href="travel-transportation-hospitality.html">Travel, Transportation & Hospitality</a></li>
+
+                </ul>
+
+            </li>
+
+			<li><a href="recognitions.html">Recognitions &amp; Affiliations</a></li>
+
+
+			<li><a href="blog/index.html">Blog</a></li>
+
+            <li class="last"><a href="contact-us.html">Contact Us</a>
+			<p>&nbsp;</p>
+            <ul>
+				<li><a href="get-a-quote.html">Get A Quote</a>
+				<li><a href="location.html">Location</a></li>
+				<li><a href="careers.html">Careers</a></li>
+			</ul>
+			</li>
+
+
+        </ul>
+
+        <div class="clr"></div>
+
+  	</div>
+
+
+  <!--nav part ends here-->
+
+  <div class="clr"></div>
+
+</div>
+
+<!--top part ends here-->
+
+<!--header part ends here-->
+
+<!--main nav part starts here-->
+<div class="red-part">
+    <div class="left">The Best Option You Can Get.</div>
+  <div class="right"></div>
+    <div class="clr"></div>
+</div>
+<!--main nav part ends here-->
+<!--inner body part starts here-->
+<div id="inner-body">
+	<div class="head">
+    	<div class="left">
+   		  	<h1>Contact Us</h1>
+			<p>Looking for an outsourced call center? Contact us today to find out more about how Biztrix Solution is your best choice for call center outsourcing. Get contact information for Biztrix Business Solution’ worldwide offices, <a href="location.html" target="_blank">click here</a>.</p>
+			<p>We will respond as quickly as possible.  We respect your time and we look forward to speaking with you.</p>
+
+			<div id="address_container">
+				<h3 class="heading1"><img src="images/office.png"> Corporate Headquarters</h3>
+				<p><b>USA</b><br>405 E, 12450 South, Suite M<br />
+				  Draper, UT 84020
+				  </p>
+
+				  <p><b>INDIA</b><br>Y9, EP Block, Sector V,
+				  Salt Lake,
+				  Kolkata - 700091
+				  </p>
+			</div>
+<!--<p class="blue_txt"> Email: <a href="mailto:contact@fusionbposervices.com">contact@fusionbposervices.com</a></p>
+				<p class="blue_txt" style="padding:15px 0; font-weight:900;">Human Resources/Recruiting: +1 (866) 642-0839</p>
+				<p class="blue_txt" style="font-weight:900;">New Business Opportunities: +1 (866) 581-0038</p>-->
+    	</div>
+        <div class="right"><img src="images/inner-head15.jpg" alt=" " /></div>
+        <div class="clr"></div>
+    </div>
+    <div id="contact_info_container">
+		<div class="buttons">
+			<h3>Reach Us</h3>
+			<img src="images/reach.png">
+			<a href="mailto:contact@fusionbposervices.com">contact@fusionbposervices.com</a>
+		</div>
+		<div class="buttons">
+			<h3>Human Resources</h3>
+			<img src="images/job.png">
+			<p><a href="tel:+18666420839">+1 (866) 642-0839</a></p>
+		</div>
+		<div class="buttons">
+			<h3>Sales Team</h3>
+			<img src="images/sales.png">
+			<p><a href="tel:+18665810038">+1 (866) 581-0038</a></p>
+		</div>
+	</div>
+    <div class="cont" style="margin-top: 20px;">
+    	<div class="left">
+
+
+          	<!--<span class="sub-txt">Flexibility, Speed, Groth</span>-->
+          	<div class="clr"></div>
+			<script type="text/javascript">
+				var RecaptchaOptions = {
+				theme : 'custom',
+				custom_theme_widget: 'recaptcha_widget'
+				};
+			</script>
+
+		  <h3 class="heading1">Please fill the form below and our Business Specialists would get back to you at the earliest.</h3>
+            <div class="mandatory"><span>*</span>These fields are mandatory.</div>
+            <div id="contact-wrapper">
+              <form method="post" action="https://www.fusionbposervices.com/contact.php" id="contactform" name="contactform" onsubmit="" >
+				<div class="form_container">
+                        <div>
+                            <label>Name:<span>*</span></label>
+                            <input type="text" size="45" name="name" id="name" value="" required />
+                        </div>
+
+                        <div>
+                            <label for="email">Email:<span>*</span></label>
+                            <input type="text" size="45" name="email" id="email" value="" required  />
+                        </div>
+                </div>
+				<div class="form_container">
+                        <div>
+                            <label for="subject">Phone:<span>*</span></label>
+                            <input type="text" size="45" name="phone" id="phone" value="" required  />
+                        </div>
+
+                        <div>
+                            <label for="subject">Website:</label>
+                            <input type="text" size="45" name="website" id="website" value=""  />
+                        </div>
+				</div>
+                <div class="form_container">
+                        <div id="comment_container">
+                            <label for="message">How may we help you?:<span>*</span></label>
+                            <textarea rows="4" cols="34" name="comments" id="comments" required></textarea>
+                        </div>
+				</div>
+                        <!--<div>
+							<div id="recaptcha_widget" style="display:none">
+							<label for="verification">Image Verification:<span>*</span></label>
+							<div>
+							<ul>
+								<li><div id="recaptcha_image"></div></li>
+								<li style="float:left">
+								<div >
+									<div style="margin-bottom:2px;"><a href="javascript:Recaptcha.reload()"><img src="images/reload.jpg" width="15" height="15" alt="#" /></a></div>
+									<div class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><img src="images/audio.jpg" width="15" height="15" alt="#" /></a></div>
+									<div class="recaptcha_only_if_audio" style="margin-bottom:4px;"><a href="javascript:Recaptcha.switch_type('image')"><img src="images/stamp.jpg" width="15" height="15" alt="#" /></a></div>
+									<div style="margin-top:2px;"><a href="javascript:Recaptcha.showhelp()"><img src="images/help.jpg" width="15" height="15" alt="#"  /></a></div>
+								</div></li>
+							</ul>
+							</div>
+
+							<div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
+								<input type="text" id="recaptcha_response_field" name="recaptcha_response_field" />
+						</div>
+
+						 <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6Le2DdcSAAAAAGbYNlHEgbuPDUihq_Ldj6P58Y8B">
+						 </script>
+						 <noscript>
+							<iframe src="http://www.google.com/recaptcha/api/noscript?k=6Le2DdcSAAAAAGbYNlHEgbuPDUihq_Ldj6P58Y8B" height="300" width="500" frameborder="0"></iframe><br />
+							<textarea name="recaptcha_challenge_field" id="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+							<input type="hidden" name="recaptcha_response_field" id="recaptcha_response_field" value="manual_challenge" />
+						</noscript>
+
+						</div>-->
+
+<div class="g-recaptcha" data-sitekey="6LfrcwUTAAAAALZLLOA-6l3bM-h9-qp5GKlj-UQh"></div>
+<noscript>
+  <div style="width: 302px; height: 352px;">
+    <div style="width: 302px; height: 352px; position: relative;">
+      <div style="width: 302px; height: 352px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=your_site_key"
+                frameborder="0" scrolling="no"
+                style="width: 302px; height:352px; border-style: none;">
+        </iframe>
+      </div>
+      <div style="width: 250px; height: 80px; position: absolute; border-style: none;
+                  bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                  class="g-recaptcha-response"
+                  style="width: 250px; height: 80px; border: 1px solid #c1c1c1;
+                         margin: 0px; padding: 0px; resize: none;" value="">
+        </textarea>
+      </div>
+    </div>
+  </div>
+</noscript>
+
+
+
+                        <input type="submit" class="submit-form" value="Send &rsaquo;" name="submit" id="submit" onclick="return validation()" />
+              </form>
+                  <div class="map">
+
+              </div>
+
+       </div>
+
+	   </div>
+        <div class="clr"></div>
+
+
+    </div>
+
+
+</div>
+<!--inner body part ends here-->
+
+<!--footer part ends here-->
+<!--footer part starts here-->
+
+<!--body part ends here-->
+
+<!--footer part starts here-->
+<div id="footer">
+	<!--<div class="red"></div>-->
+	<div class="nav">
+    	<ul>
+        	<li><a href="call-center.html">Call Center</a></li>
+            <li><a href="blog/index.html" target="_blank">Blog</a></li>
+            <li><a href="sitemap.html">Site Map</a></li>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="terms-use.html">Terms of Use</a></li>
+            <li class="last"><a href="contact-us.html">Contact Us</a></li>
+        </ul>
+        <div class="clr"></div>
+  	</div>
+    <div class="copy">&copy; 2019 Biztrix Business Solution. All Rights Reserved.</div>
+    <div class="clr"></div>
+
+
+</div>
+<!--footer part ends here-->
+<!-- SalesIQ Chat -->
+<script type="text/javascript">
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq ||
+{widgetcode:"4067085cd7df8cd3e8dff7515fc2d1663ea933cffdb1e6be88d5d4c43cbffc22a81d6b547a35c109951d24f6be71d2d0", values:{},ready:function(){}};
+var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
+s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+</script><!--footer part ends here-->
+</body>
+
+<!-- Mirrored from www.fusionbposervices.com/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 14 Jun 2019 16:45:52 GMT -->
+</html>

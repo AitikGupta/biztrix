@@ -1,0 +1,25 @@
+.testimonials {
+    margin-top: 40px;
+    border: 1px solid #dddddd;
+    padding: 20px;
+	border-radius: 8px;
+}
+.testimonials_h1 {
+    height: 90px;
+	font-size: 16px;
+	color: #424242;
+}
+.testimonials_h1 img {
+    float: left;
+	margin-right: 20px
+}
+.testimonials_h1 span {
+    font-size: 13px;
+    display: block;
+    color: #999999;
+}
+.testimonials_content {
+    font-size: 16px;
+    color: #424242;
+    line-height: 22px;
+}
